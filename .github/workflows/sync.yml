@@ -1,0 +1,39 @@
+name: Data Sync & Insights
+
+on:
+  schedule:
+    # 3 times a day (morning, afternoon, evening IST)
+    - cron: "0 4 * * 1-6"   # 9:30 AM IST
+    - cron: "0 9 * * 1-6"   # 2:30 PM IST
+    - cron: "0 14 * * 1-6"  # 7:30 PM IST
+    # Weekly cache cleanup
+    - cron: "0 6 * * 0"     # Sunday 11:30 AM IST
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync-job:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - run: pip install requests
+
+      - run: python -u sync.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      # Save sync_cache.json back to repository cache database
+      - name: Reconcile local cache database
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sync_cache.json
+          git diff --staged --quiet || git commit -m "chore: update sync data cache"
+          git push

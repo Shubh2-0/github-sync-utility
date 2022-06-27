@@ -1,0 +1,4004 @@
+{
+  "followed_users": [
+    {
+      "username": "rusty-web3-developer",
+      "followed_on": "2026-03-23T10:21:23",
+      "followed_back": false
+    },
+    {
+      "username": "heri1845",
+      "followed_on": "2026-03-16T05:55:03",
+      "followed_back": false
+    },
+    {
+      "username": "nguyendinson",
+      "followed_on": "2026-03-17T05:24:21",
+      "followed_back": false
+    },
+    {
+      "username": "scobi84",
+      "followed_on": "2026-03-19T05:37:28",
+      "followed_back": false
+    },
+    {
+      "username": "KaleidoX",
+      "followed_on": "2026-06-13T11:15:33.489419",
+      "followed_back": false
+    },
+    {
+      "username": "dhuzmiao",
+      "followed_on": "2026-06-13T11:16:20.511012",
+      "followed_back": false
+    },
+    {
+      "username": "thickkoezz",
+      "followed_on": "2026-06-13T11:16:46.751839",
+      "followed_back": false
+    },
+    {
+      "username": "sunxiongfeng",
+      "followed_on": "2026-06-13T11:17:35.442041",
+      "followed_back": false
+    },
+    {
+      "username": "ErnestW2019",
+      "followed_on": "2026-06-13T11:18:13.357579",
+      "followed_back": false
+    },
+    {
+      "username": "shi1123",
+      "followed_on": "2026-06-13T11:19:04.653016",
+      "followed_back": false
+    },
+    {
+      "username": "mkgobaco",
+      "followed_on": "2026-06-13T15:42:04.328099",
+      "followed_back": true
+    },
+    {
+      "username": "jensstockhausen",
+      "followed_on": "2026-06-13T15:42:08.041324",
+      "followed_back": true
+    },
+    {
+      "username": "vishalkukreja",
+      "followed_on": "2026-06-13T15:42:16.846156",
+      "followed_back": true
+    },
+    {
+      "username": "Homa",
+      "followed_on": "2026-06-13T15:42:19.364024",
+      "followed_back": true
+    },
+    {
+      "username": "riteshverma",
+      "followed_on": "2026-06-13T15:42:33.350026",
+      "followed_back": true
+    },
+    {
+      "username": "pgosset",
+      "followed_on": "2026-06-13T15:42:33.562528",
+      "followed_back": true
+    },
+    {
+      "username": "raghuugare",
+      "followed_on": "2026-06-13T15:42:33.567017",
+      "followed_back": true
+    },
+    {
+      "username": "kturner75",
+      "followed_on": "2026-06-13T15:42:35.343403",
+      "followed_back": true
+    },
+    {
+      "username": "sandeepkunkunuru",
+      "followed_on": "2026-06-13T15:42:36.923954",
+      "followed_back": true
+    },
+    {
+      "username": "nklnandu",
+      "followed_on": "2026-06-13T15:42:40.066190",
+      "followed_back": true
+    },
+    {
+      "username": "greenflute",
+      "followed_on": "2026-06-13T15:42:40.875080",
+      "followed_back": true
+    },
+    {
+      "username": "erickwill",
+      "followed_on": "2026-06-13T15:42:43.544343",
+      "followed_back": true
+    },
+    {
+      "username": "prafullkotecha",
+      "followed_on": "2026-06-13T15:42:45.755713",
+      "followed_back": true
+    },
+    {
+      "username": "paulocordeiro",
+      "followed_on": "2026-06-13T15:42:47.320091",
+      "followed_back": true
+    },
+    {
+      "username": "prashant4nov",
+      "followed_on": "2026-06-13T15:42:49.298839",
+      "followed_back": true
+    },
+    {
+      "username": "rts0101",
+      "followed_on": "2026-06-13T15:42:49.521255",
+      "followed_back": true
+    },
+    {
+      "username": "stillkit",
+      "followed_on": "2026-06-13T15:42:56.289326",
+      "followed_back": true
+    },
+    {
+      "username": "theautonomy",
+      "followed_on": "2026-06-13T15:42:56.518278",
+      "followed_back": true
+    },
+    {
+      "username": "cognitive-builder",
+      "followed_on": "2026-06-13T15:42:57.592261",
+      "followed_back": true
+    },
+    {
+      "username": "tharani29",
+      "followed_on": "2026-06-13T15:42:57.596461",
+      "followed_back": true
+    },
+    {
+      "username": "salvo4u",
+      "followed_on": "2026-06-13T15:42:57.809184",
+      "followed_back": true
+    },
+    {
+      "username": "ysrireddy",
+      "followed_on": "2026-06-13T15:42:57.813597",
+      "followed_back": true
+    },
+    {
+      "username": "kerobero",
+      "followed_on": "2026-06-13T15:42:58.039077",
+      "followed_back": true
+    },
+    {
+      "username": "tobiasquinteiro",
+      "followed_on": "2026-06-13T15:42:58.977301",
+      "followed_back": true
+    },
+    {
+      "username": "sahoomanu",
+      "followed_on": "2026-06-13T15:42:59.556734",
+      "followed_back": true
+    },
+    {
+      "username": "prabasn",
+      "followed_on": "2026-06-13T15:43:02.088335",
+      "followed_back": true
+    },
+    {
+      "username": "srinivasraom",
+      "followed_on": "2026-06-13T15:43:07.764730",
+      "followed_back": true
+    },
+    {
+      "username": "ashwanisharma80",
+      "followed_on": "2026-06-13T15:43:14.934346",
+      "followed_back": true
+    },
+    {
+      "username": "jazzyF",
+      "followed_on": "2026-06-13T15:43:21.085791",
+      "followed_back": true
+    },
+    {
+      "username": "allabakash",
+      "followed_on": "2026-06-13T15:43:22.070250",
+      "followed_back": true
+    },
+    {
+      "username": "mbhoge",
+      "followed_on": "2026-06-13T15:43:25.685449",
+      "followed_back": false
+    },
+    {
+      "username": "alperbek",
+      "followed_on": "2026-06-13T15:43:48.189347",
+      "followed_back": false
+    },
+    {
+      "username": "safiqksm",
+      "followed_on": "2026-06-13T15:44:15.104699",
+      "followed_back": false
+    },
+    {
+      "username": "bhabanism",
+      "followed_on": "2026-06-13T15:44:43.954208",
+      "followed_back": false
+    },
+    {
+      "username": "ashaykolhe",
+      "followed_on": "2026-06-13T15:45:39.311606",
+      "followed_back": false
+    },
+    {
+      "username": "pruthig",
+      "followed_on": "2026-06-13T15:46:28.993883",
+      "followed_back": false
+    },
+    {
+      "username": "jcarlosvale",
+      "followed_on": "2026-06-13T15:47:05.976477",
+      "followed_back": false
+    },
+    {
+      "username": "qilei",
+      "followed_on": "2026-06-13T15:47:50.354025",
+      "followed_back": false
+    },
+    {
+      "username": "profemzy",
+      "followed_on": "2026-06-13T15:48:41.928635",
+      "followed_back": false
+    },
+    {
+      "username": "andrebarradas",
+      "followed_on": "2026-06-13T15:49:29.445874",
+      "followed_back": false
+    },
+    {
+      "username": "irefaat",
+      "followed_on": "2026-06-13T15:49:58.001359",
+      "followed_back": false
+    },
+    {
+      "username": "kaissun",
+      "followed_on": "2026-06-13T15:50:45.031051",
+      "followed_back": false
+    },
+    {
+      "username": "dpoetonwheels",
+      "followed_on": "2026-06-13T15:51:36.752710",
+      "followed_back": false
+    },
+    {
+      "username": "schiluka",
+      "followed_on": "2026-06-13T15:52:04.659848",
+      "followed_back": false
+    },
+    {
+      "username": "oonursrc",
+      "followed_on": "2026-06-13T15:52:55.549951",
+      "followed_back": false
+    },
+    {
+      "username": "maikeffi",
+      "followed_on": "2026-06-13T15:53:26.047635",
+      "followed_back": false
+    },
+    {
+      "username": "cheguvera",
+      "followed_on": "2026-06-13T15:54:09.878777",
+      "followed_back": false
+    },
+    {
+      "username": "lyhistory",
+      "followed_on": "2026-06-13T15:54:48.049518",
+      "followed_back": false
+    },
+    {
+      "username": "fzuzyp",
+      "followed_on": "2026-06-13T15:55:36.581744",
+      "followed_back": false
+    },
+    {
+      "username": "supercool27",
+      "followed_on": "2026-06-13T15:56:29.401914",
+      "followed_back": false
+    },
+    {
+      "username": "galipalli",
+      "followed_on": "2026-06-13T15:57:08.579172",
+      "followed_back": false
+    },
+    {
+      "username": "t-node",
+      "followed_on": "2026-06-13T15:57:39.265428",
+      "followed_back": false
+    },
+    {
+      "username": "blacktree",
+      "followed_on": "2026-06-13T15:58:28.470211",
+      "followed_back": false
+    },
+    {
+      "username": "xRahul",
+      "followed_on": "2026-06-13T15:59:09.758721",
+      "followed_back": false
+    },
+    {
+      "username": "suptaphilip",
+      "followed_on": "2026-06-13T15:59:38.467582",
+      "followed_back": false
+    },
+    {
+      "username": "davidyin",
+      "followed_on": "2026-06-13T16:00:12.639290",
+      "followed_back": false
+    },
+    {
+      "username": "gunesi",
+      "followed_on": "2026-06-13T16:00:55.796155",
+      "followed_back": false
+    },
+    {
+      "username": "foxsermon",
+      "followed_on": "2026-06-13T16:01:54.488391",
+      "followed_back": false
+    },
+    {
+      "username": "AnnawanDev",
+      "followed_on": "2026-06-13T16:02:51.788369",
+      "followed_back": false
+    },
+    {
+      "username": "SeriousSamV",
+      "followed_on": "2026-06-13T16:03:35.166169",
+      "followed_back": false
+    },
+    {
+      "username": "benjamin555",
+      "followed_on": "2026-06-16T09:13:30.415108",
+      "followed_back": false
+    },
+    {
+      "username": "Clearlove12138",
+      "followed_on": "2026-06-16T09:14:15.471154",
+      "followed_back": false
+    },
+    {
+      "username": "kts168",
+      "followed_on": "2026-06-16T09:14:57.237525",
+      "followed_back": false
+    },
+    {
+      "username": "wilddogqi",
+      "followed_on": "2026-06-16T09:15:36.981863",
+      "followed_back": false
+    },
+    {
+      "username": "stack3mpty",
+      "followed_on": "2026-06-16T13:29:03.166880",
+      "followed_back": false
+    },
+    {
+      "username": "isxpy",
+      "followed_on": "2026-06-16T13:29:37.291351",
+      "followed_back": false
+    },
+    {
+      "username": "AASIL005",
+      "followed_on": "2026-06-16T13:30:00.729221",
+      "followed_back": true
+    },
+    {
+      "username": "KouShenhai",
+      "followed_on": "2026-06-16T13:30:30.554031",
+      "followed_back": false
+    },
+    {
+      "username": "N3w-player",
+      "followed_on": "2026-06-16T13:31:13.667148",
+      "followed_back": false
+    },
+    {
+      "username": "Lucas-andrade-nascimento",
+      "followed_on": "2026-06-16T13:31:35.582655",
+      "followed_back": false
+    },
+    {
+      "username": "rohitmtak",
+      "followed_on": "2026-06-16T13:32:25.874485",
+      "followed_back": false
+    },
+    {
+      "username": "Pyr33x",
+      "followed_on": "2026-06-16T13:32:55.753712",
+      "followed_back": false
+    },
+    {
+      "username": "dxbx100",
+      "followed_on": "2026-06-16T13:33:25.068269",
+      "followed_back": false
+    },
+    {
+      "username": "jetfontanilla",
+      "followed_on": "2026-06-16T18:26:56.195368",
+      "followed_back": false
+    },
+    {
+      "username": "robu3",
+      "followed_on": "2026-06-16T18:27:25.706050",
+      "followed_back": false
+    },
+    {
+      "username": "wztboyking",
+      "followed_on": "2026-06-16T18:27:47.782801",
+      "followed_back": false
+    },
+    {
+      "username": "stepodev",
+      "followed_on": "2026-06-16T18:28:22.972120",
+      "followed_back": false
+    },
+    {
+      "username": "abi666",
+      "followed_on": "2026-06-16T18:29:00.672375",
+      "followed_back": false
+    },
+    {
+      "username": "tirkarthi",
+      "followed_on": "2026-06-16T18:29:42.510262",
+      "followed_back": false
+    },
+    {
+      "username": "bruce48x",
+      "followed_on": "2026-06-16T18:30:11.583980",
+      "followed_back": false
+    },
+    {
+      "username": "theMK2k",
+      "followed_on": "2026-06-16T18:30:43.999477",
+      "followed_back": false
+    },
+    {
+      "username": "bkrcq",
+      "followed_on": "2026-06-16T18:31:31.152794",
+      "followed_back": false
+    },
+    {
+      "username": "sin2akshay",
+      "followed_on": "2026-06-16T18:32:12.148532",
+      "followed_back": false
+    },
+    {
+      "username": "keybrade",
+      "followed_on": "2026-06-16T18:32:57.167132",
+      "followed_back": false
+    },
+    {
+      "username": "CsHeng",
+      "followed_on": "2026-06-16T18:33:46.476828",
+      "followed_back": false
+    },
+    {
+      "username": "DanielBerns",
+      "followed_on": "2026-06-16T18:34:18.032202",
+      "followed_back": false
+    },
+    {
+      "username": "amany-mm",
+      "followed_on": "2026-06-17T12:52:59.231465",
+      "followed_back": false
+    },
+    {
+      "username": "Ashu",
+      "followed_on": "2026-06-17T12:53:40.132720",
+      "followed_back": false
+    },
+    {
+      "username": "2ashishs",
+      "followed_on": "2026-06-17T12:54:05.217577",
+      "followed_back": false
+    },
+    {
+      "username": "studiovc",
+      "followed_on": "2026-06-17T12:54:27.918298",
+      "followed_back": false
+    },
+    {
+      "username": "dlee0113",
+      "followed_on": "2026-06-17T12:54:51.785871",
+      "followed_back": false
+    },
+    {
+      "username": "mbaljeetsingh",
+      "followed_on": "2026-06-17T12:55:41.955613",
+      "followed_back": false
+    },
+    {
+      "username": "SantoshSrinivas79",
+      "followed_on": "2026-06-17T12:56:13.059071",
+      "followed_back": false
+    },
+    {
+      "username": "jerrinfrancis",
+      "followed_on": "2026-06-17T12:57:04.001831",
+      "followed_back": false
+    },
+    {
+      "username": "jatinjindalj",
+      "followed_on": "2026-06-17T12:57:46.555646",
+      "followed_back": false
+    },
+    {
+      "username": "adityavs",
+      "followed_on": "2026-06-17T12:58:39.990715",
+      "followed_back": false
+    },
+    {
+      "username": "Leenie",
+      "followed_on": "2026-06-17T12:59:26.319380",
+      "followed_back": false
+    },
+    {
+      "username": "saipraveen",
+      "followed_on": "2026-06-17T12:59:59.842477",
+      "followed_back": false
+    },
+    {
+      "username": "tamilarasan-sekar",
+      "followed_on": "2026-06-17T13:00:47.462109",
+      "followed_back": false
+    },
+    {
+      "username": "tusharpucsd",
+      "followed_on": "2026-06-17T13:01:37.306260",
+      "followed_back": false
+    },
+    {
+      "username": "jeturgavli",
+      "followed_on": "2026-06-17T13:02:22.038485",
+      "followed_back": false
+    },
+    {
+      "username": "krishnaprasanthg",
+      "followed_on": "2026-06-17T13:02:58.216354",
+      "followed_back": false
+    },
+    {
+      "username": "rajuj6",
+      "followed_on": "2026-06-17T13:03:21.890797",
+      "followed_back": false
+    },
+    {
+      "username": "inovizz",
+      "followed_on": "2026-06-17T13:04:06.722410",
+      "followed_back": false
+    },
+    {
+      "username": "mithunkumarc",
+      "followed_on": "2026-06-17T13:04:55.918016",
+      "followed_back": false
+    },
+    {
+      "username": "kishoregs",
+      "followed_on": "2026-06-17T13:05:31.678191",
+      "followed_back": false
+    },
+    {
+      "username": "veblogic",
+      "followed_on": "2026-06-17T13:06:17.540196",
+      "followed_back": false
+    },
+    {
+      "username": "hrishikesh713",
+      "followed_on": "2026-06-17T13:06:52.172485",
+      "followed_back": false
+    },
+    {
+      "username": "selvadurai",
+      "followed_on": "2026-06-17T13:07:36.339627",
+      "followed_back": false
+    },
+    {
+      "username": "rupesh137",
+      "followed_on": "2026-06-17T13:08:26.462176",
+      "followed_back": false
+    },
+    {
+      "username": "shubhk18",
+      "followed_on": "2026-06-17T13:09:11.598281",
+      "followed_back": false
+    },
+    {
+      "username": "PersistentCoder7",
+      "followed_on": "2026-06-17T13:09:45.155421",
+      "followed_back": false
+    },
+    {
+      "username": "poornasamy",
+      "followed_on": "2026-06-17T13:10:14.243321",
+      "followed_back": false
+    },
+    {
+      "username": "AnushaNarasimhan",
+      "followed_on": "2026-06-17T13:10:53.278280",
+      "followed_back": false
+    },
+    {
+      "username": "naisofly",
+      "followed_on": "2026-06-17T13:11:20.163189",
+      "followed_back": false
+    },
+    {
+      "username": "anudeepreddy",
+      "followed_on": "2026-06-17T13:11:59.528331",
+      "followed_back": false
+    },
+    {
+      "username": "YXXF-Y",
+      "followed_on": "2026-06-17T16:54:15.272008",
+      "followed_back": false
+    },
+    {
+      "username": "daftpunkwav",
+      "followed_on": "2026-06-17T16:55:04.313477",
+      "followed_back": false
+    },
+    {
+      "username": "akumar",
+      "followed_on": "2026-06-18T08:28:13.574413",
+      "followed_back": false
+    },
+    {
+      "username": "bhattnishant",
+      "followed_on": "2026-06-18T08:28:52.676392",
+      "followed_back": false
+    },
+    {
+      "username": "sunilksamanta",
+      "followed_on": "2026-06-18T08:29:42.613380",
+      "followed_back": false
+    },
+    {
+      "username": "debdeep",
+      "followed_on": "2026-06-18T08:30:29.585087",
+      "followed_back": false
+    },
+    {
+      "username": "kundan594",
+      "followed_on": "2026-06-18T08:31:04.927619",
+      "followed_back": false
+    },
+    {
+      "username": "karanmehta",
+      "followed_on": "2026-06-18T08:31:54.511533",
+      "followed_back": false
+    },
+    {
+      "username": "dheerajmnnit",
+      "followed_on": "2026-06-18T08:32:28.730402",
+      "followed_back": false
+    },
+    {
+      "username": "0xc0d3r",
+      "followed_on": "2026-06-18T08:33:02.106631",
+      "followed_back": false
+    },
+    {
+      "username": "sonikamah",
+      "followed_on": "2026-06-18T08:33:38.664160",
+      "followed_back": false
+    },
+    {
+      "username": "mohitmanuja",
+      "followed_on": "2026-06-18T08:34:21.429157",
+      "followed_back": false
+    },
+    {
+      "username": "anoop-singh-dev",
+      "followed_on": "2026-06-18T08:35:00.584984",
+      "followed_back": false
+    },
+    {
+      "username": "ankitguptaa",
+      "followed_on": "2026-06-18T08:35:46.244110",
+      "followed_back": false
+    },
+    {
+      "username": "kaleem-elahi",
+      "followed_on": "2026-06-18T08:36:38.165093",
+      "followed_back": false
+    },
+    {
+      "username": "mkayfour",
+      "followed_on": "2026-06-18T08:37:09.188429",
+      "followed_back": false
+    },
+    {
+      "username": "vishnubhadri",
+      "followed_on": "2026-06-18T08:37:43.606899",
+      "followed_back": false
+    },
+    {
+      "username": "Bharath-code",
+      "followed_on": "2026-06-18T08:38:09.689058",
+      "followed_back": false
+    },
+    {
+      "username": "bksun",
+      "followed_on": "2026-06-18T08:38:44.498227",
+      "followed_back": false
+    },
+    {
+      "username": "kumarakhil",
+      "followed_on": "2026-06-18T08:39:22.822360",
+      "followed_back": false
+    },
+    {
+      "username": "praveen-javali",
+      "followed_on": "2026-06-18T08:39:51.475465",
+      "followed_back": false
+    },
+    {
+      "username": "MalkeshDalia",
+      "followed_on": "2026-06-18T08:40:17.234708",
+      "followed_back": false
+    },
+    {
+      "username": "knowgaurav",
+      "followed_on": "2026-06-18T08:41:01.161681",
+      "followed_back": false
+    },
+    {
+      "username": "OmkarKirpan",
+      "followed_on": "2026-06-18T08:41:30.011506",
+      "followed_back": false
+    },
+    {
+      "username": "GhadiSachin",
+      "followed_on": "2026-06-18T08:42:03.541700",
+      "followed_back": false
+    },
+    {
+      "username": "Kisalaykisu",
+      "followed_on": "2026-06-18T08:42:37.612480",
+      "followed_back": false
+    },
+    {
+      "username": "vooratarun",
+      "followed_on": "2026-06-18T08:43:16.006614",
+      "followed_back": false
+    },
+    {
+      "username": "ajinux",
+      "followed_on": "2026-06-18T08:43:43.474618",
+      "followed_back": false
+    },
+    {
+      "username": "nitinjaswal",
+      "followed_on": "2026-06-18T08:44:29.994382",
+      "followed_back": false
+    },
+    {
+      "username": "whitebumblebee",
+      "followed_on": "2026-06-18T08:45:06.516684",
+      "followed_back": false
+    },
+    {
+      "username": "debashismoharana",
+      "followed_on": "2026-06-18T08:45:37.850915",
+      "followed_back": false
+    },
+    {
+      "username": "learneradarsh",
+      "followed_on": "2026-06-18T08:46:16.773035",
+      "followed_back": false
+    },
+    {
+      "username": "topstop3416",
+      "followed_on": "2026-06-18T12:28:27.124486",
+      "followed_back": false
+    },
+    {
+      "username": "dmpl255",
+      "followed_on": "2026-06-18T12:29:06.148268",
+      "followed_back": true
+    },
+    {
+      "username": "dominikcirko",
+      "followed_on": "2026-06-18T12:29:06.274498",
+      "followed_back": true
+    },
+    {
+      "username": "Azgoh",
+      "followed_on": "2026-06-18T12:29:07.798337",
+      "followed_back": true
+    },
+    {
+      "username": "fbsarracini",
+      "followed_on": "2026-06-18T12:29:08.060489",
+      "followed_back": true
+    },
+    {
+      "username": "XIAOWENHUAN",
+      "followed_on": "2026-06-18T12:29:08.190101",
+      "followed_back": true
+    },
+    {
+      "username": "GulSauce",
+      "followed_on": "2026-06-18T12:29:08.574635",
+      "followed_back": true
+    },
+    {
+      "username": "hike97",
+      "followed_on": "2026-06-18T12:29:08.575915",
+      "followed_back": true
+    },
+    {
+      "username": "jwon0523",
+      "followed_on": "2026-06-18T12:29:08.577126",
+      "followed_back": true
+    },
+    {
+      "username": "Mrx8551",
+      "followed_on": "2026-06-18T12:29:08.578201",
+      "followed_back": true
+    },
+    {
+      "username": "hansolChoi29",
+      "followed_on": "2026-06-18T12:29:08.579217",
+      "followed_back": true
+    },
+    {
+      "username": "nightletter",
+      "followed_on": "2026-06-18T12:29:08.580316",
+      "followed_back": true
+    },
+    {
+      "username": "delvering17",
+      "followed_on": "2026-06-18T12:29:08.997483",
+      "followed_back": true
+    },
+    {
+      "username": "uniquerockrz",
+      "followed_on": "2026-06-18T16:55:20.231454",
+      "followed_back": false
+    },
+    {
+      "username": "Gajanana",
+      "followed_on": "2026-06-18T16:56:12.124987",
+      "followed_back": false
+    },
+    {
+      "username": "pranjal-jain",
+      "followed_on": "2026-06-18T16:57:00.710559",
+      "followed_back": false
+    },
+    {
+      "username": "jaideepghosh",
+      "followed_on": "2026-06-18T16:57:47.433429",
+      "followed_back": false
+    },
+    {
+      "username": "sourabhgrover",
+      "followed_on": "2026-06-18T16:58:09.780196",
+      "followed_back": false
+    },
+    {
+      "username": "miheermalhotra",
+      "followed_on": "2026-06-18T16:58:58.981212",
+      "followed_back": false
+    },
+    {
+      "username": "PavanDongare",
+      "followed_on": "2026-06-18T16:59:26.524688",
+      "followed_back": false
+    },
+    {
+      "username": "lakhansamani",
+      "followed_on": "2026-06-18T17:00:03.943428",
+      "followed_back": false
+    },
+    {
+      "username": "sarathi475",
+      "followed_on": "2026-06-18T17:00:35.730182",
+      "followed_back": false
+    },
+    {
+      "username": "prashantkumar484",
+      "followed_on": "2026-06-18T17:01:12.697441",
+      "followed_back": false
+    },
+    {
+      "username": "soorajshankar",
+      "followed_on": "2026-06-18T17:01:44.338974",
+      "followed_back": false
+    },
+    {
+      "username": "hraverkar",
+      "followed_on": "2026-06-18T17:02:10.520993",
+      "followed_back": false
+    },
+    {
+      "username": "alishvagadiya",
+      "followed_on": "2026-06-18T17:02:39.002180",
+      "followed_back": false
+    },
+    {
+      "username": "BigB007",
+      "followed_on": "2026-06-18T17:03:15.947202",
+      "followed_back": false
+    },
+    {
+      "username": "ashusath",
+      "followed_on": "2026-06-18T17:04:07.243244",
+      "followed_back": false
+    },
+    {
+      "username": "moonpieee",
+      "followed_on": "2026-06-18T17:04:44.320352",
+      "followed_back": false
+    },
+    {
+      "username": "Kvaibhav01",
+      "followed_on": "2026-06-18T17:05:30.970749",
+      "followed_back": false
+    },
+    {
+      "username": "souvikkundu88",
+      "followed_on": "2026-06-18T17:06:12.674057",
+      "followed_back": false
+    },
+    {
+      "username": "nurul3101",
+      "followed_on": "2026-06-18T17:06:34.639750",
+      "followed_back": false
+    },
+    {
+      "username": "vaughan189",
+      "followed_on": "2026-06-18T17:07:00.806408",
+      "followed_back": false
+    },
+    {
+      "username": "inf3cti0n95",
+      "followed_on": "2026-06-18T17:07:37.177381",
+      "followed_back": false
+    },
+    {
+      "username": "k4r1ik",
+      "followed_on": "2026-06-18T17:08:00.033051",
+      "followed_back": false
+    },
+    {
+      "username": "aymanapatel",
+      "followed_on": "2026-06-18T17:08:51.923975",
+      "followed_back": false
+    },
+    {
+      "username": "sudheervajrapu",
+      "followed_on": "2026-06-18T17:09:14.428546",
+      "followed_back": false
+    },
+    {
+      "username": "Hanu73",
+      "followed_on": "2026-06-18T17:09:55.772155",
+      "followed_back": false
+    },
+    {
+      "username": "CheragV",
+      "followed_on": "2026-06-18T17:10:44.901480",
+      "followed_back": false
+    },
+    {
+      "username": "TechnologicalJerry",
+      "followed_on": "2026-06-18T17:11:35.546816",
+      "followed_back": false
+    },
+    {
+      "username": "indu127pal",
+      "followed_on": "2026-06-18T17:12:20.106867",
+      "followed_back": false
+    },
+    {
+      "username": "akshayraichur",
+      "followed_on": "2026-06-18T17:13:06.000580",
+      "followed_back": false
+    },
+    {
+      "username": "ddepu11",
+      "followed_on": "2026-06-18T17:13:58.594630",
+      "followed_back": false
+    },
+    {
+      "username": "jero07",
+      "followed_on": "2026-06-19T12:48:54.698794",
+      "followed_back": false
+    },
+    {
+      "username": "awsompankaj",
+      "followed_on": "2026-06-19T12:49:32.813931",
+      "followed_back": false
+    },
+    {
+      "username": "sateeshyavarna",
+      "followed_on": "2026-06-19T12:50:55.546191",
+      "followed_back": false
+    },
+    {
+      "username": "ketan27j",
+      "followed_on": "2026-06-19T12:51:41.067331",
+      "followed_back": false
+    },
+    {
+      "username": "KevinCrosby",
+      "followed_on": "2026-06-19T12:52:11.472017",
+      "followed_back": false
+    },
+    {
+      "username": "abraarsyed",
+      "followed_on": "2026-06-19T12:52:52.112180",
+      "followed_back": false
+    },
+    {
+      "username": "Ashish424",
+      "followed_on": "2026-06-19T12:53:35.835331",
+      "followed_back": false
+    },
+    {
+      "username": "saket0024",
+      "followed_on": "2026-06-19T12:54:04.796840",
+      "followed_back": false
+    },
+    {
+      "username": "hemanthkk",
+      "followed_on": "2026-06-19T12:54:29.998017",
+      "followed_back": false
+    },
+    {
+      "username": "pratikbarjatya",
+      "followed_on": "2026-06-19T12:55:08.184799",
+      "followed_back": false
+    },
+    {
+      "username": "glianyi",
+      "followed_on": "2026-06-19T12:55:57.304762",
+      "followed_back": false
+    },
+    {
+      "username": "karunarora007",
+      "followed_on": "2026-06-19T12:56:39.615238",
+      "followed_back": false
+    },
+    {
+      "username": "bitnbytes",
+      "followed_on": "2026-06-19T12:57:15.583723",
+      "followed_back": false
+    },
+    {
+      "username": "mailtodanish",
+      "followed_on": "2026-06-19T12:57:41.282135",
+      "followed_back": false
+    },
+    {
+      "username": "piouspradhan",
+      "followed_on": "2026-06-19T12:58:26.506965",
+      "followed_back": false
+    },
+    {
+      "username": "sajangupta74",
+      "followed_on": "2026-06-19T12:59:01.062579",
+      "followed_back": false
+    },
+    {
+      "username": "sanjeevkomma",
+      "followed_on": "2026-06-19T12:59:41.734455",
+      "followed_back": false
+    },
+    {
+      "username": "mehul-m-prajapati",
+      "followed_on": "2026-06-19T13:00:07.472839",
+      "followed_back": false
+    },
+    {
+      "username": "sinhasagar01",
+      "followed_on": "2026-06-19T13:00:39.221074",
+      "followed_back": false
+    },
+    {
+      "username": "niraj8",
+      "followed_on": "2026-06-19T13:01:13.347943",
+      "followed_back": false
+    },
+    {
+      "username": "nivendha",
+      "followed_on": "2026-06-19T13:01:54.787441",
+      "followed_back": false
+    },
+    {
+      "username": "Brijeshngi",
+      "followed_on": "2026-06-19T13:02:37.220321",
+      "followed_back": false
+    },
+    {
+      "username": "shahadathossain",
+      "followed_on": "2026-06-19T13:03:20.708686",
+      "followed_back": false
+    },
+    {
+      "username": "Bosegeek",
+      "followed_on": "2026-06-19T13:04:11.460517",
+      "followed_back": false
+    },
+    {
+      "username": "sumitbhanushali",
+      "followed_on": "2026-06-19T13:04:57.436729",
+      "followed_back": false
+    },
+    {
+      "username": "singhakshayraj",
+      "followed_on": "2026-06-19T13:05:23.504816",
+      "followed_back": false
+    },
+    {
+      "username": "e11438",
+      "followed_on": "2026-06-19T13:06:06.574256",
+      "followed_back": false
+    },
+    {
+      "username": "kamal-ganwani",
+      "followed_on": "2026-06-19T13:06:42.433460",
+      "followed_back": false
+    },
+    {
+      "username": "surya2208",
+      "followed_on": "2026-06-19T13:07:34.127064",
+      "followed_back": false
+    },
+    {
+      "username": "driprado",
+      "followed_on": "2026-06-19T13:08:07.328681",
+      "followed_back": false
+    },
+    {
+      "username": "SailorCrane",
+      "followed_on": "2026-06-19T16:31:29.951425",
+      "followed_back": false
+    },
+    {
+      "username": "sahoouttam",
+      "followed_on": "2026-06-19T16:32:08.673439",
+      "followed_back": false
+    },
+    {
+      "username": "Eomaxl",
+      "followed_on": "2026-06-19T16:32:55.224501",
+      "followed_back": false
+    },
+    {
+      "username": "lanhaolong20161111",
+      "followed_on": "2026-06-19T16:33:38.824355",
+      "followed_back": false
+    },
+    {
+      "username": "DeathGun5201",
+      "followed_on": "2026-06-19T16:34:27.438026",
+      "followed_back": false
+    },
+    {
+      "username": "sravi16",
+      "followed_on": "2026-06-19T16:34:55.064752",
+      "followed_back": false
+    },
+    {
+      "username": "shahnawazshahin",
+      "followed_on": "2026-06-20T07:39:46.163951",
+      "followed_back": true
+    },
+    {
+      "username": "wisaruthk",
+      "followed_on": "2026-06-20T07:39:46.261787",
+      "followed_back": true
+    },
+    {
+      "username": "radekshod",
+      "followed_on": "2026-06-20T07:39:47.122608",
+      "followed_back": false
+    },
+    {
+      "username": "emersonlara",
+      "followed_on": "2026-06-20T07:40:37.074925",
+      "followed_back": true
+    },
+    {
+      "username": "deepaksorthiya",
+      "followed_on": "2026-06-20T07:40:40.613705",
+      "followed_back": true
+    },
+    {
+      "username": "Sozhan308",
+      "followed_on": "2026-06-20T07:40:41.732495",
+      "followed_back": true
+    },
+    {
+      "username": "omarhamdy49",
+      "followed_on": "2026-06-20T07:40:43.128382",
+      "followed_back": true
+    },
+    {
+      "username": "rehe0x",
+      "followed_on": "2026-06-20T07:40:43.582641",
+      "followed_back": true
+    },
+    {
+      "username": "atefalrwashdeh",
+      "followed_on": "2026-06-20T07:40:44.697751",
+      "followed_back": false
+    },
+    {
+      "username": "seval-senturk",
+      "followed_on": "2026-06-20T07:41:17.158197",
+      "followed_back": false
+    },
+    {
+      "username": "TrangLe1610",
+      "followed_on": "2026-06-20T07:42:01.310802",
+      "followed_back": true
+    },
+    {
+      "username": "asantamar87",
+      "followed_on": "2026-06-20T07:42:02.610640",
+      "followed_back": true
+    },
+    {
+      "username": "aalmahmoud",
+      "followed_on": "2026-06-20T07:42:02.835541",
+      "followed_back": true
+    },
+    {
+      "username": "nabiozer",
+      "followed_on": "2026-06-20T07:42:03.589265",
+      "followed_back": true
+    },
+    {
+      "username": "xshlc",
+      "followed_on": "2026-06-20T07:42:06.454588",
+      "followed_back": true
+    },
+    {
+      "username": "marykuo",
+      "followed_on": "2026-06-20T07:42:06.456166",
+      "followed_back": true
+    },
+    {
+      "username": "fpolizzi",
+      "followed_on": "2026-06-20T07:42:06.457688",
+      "followed_back": true
+    },
+    {
+      "username": "neo1909",
+      "followed_on": "2026-06-20T07:42:09.818734",
+      "followed_back": true
+    },
+    {
+      "username": "pedrojhrossi",
+      "followed_on": "2026-06-20T07:42:09.914534",
+      "followed_back": true
+    },
+    {
+      "username": "mjiang97",
+      "followed_on": "2026-06-20T07:42:12.855488",
+      "followed_back": true
+    },
+    {
+      "username": "DysonMa",
+      "followed_on": "2026-06-20T07:42:13.498599",
+      "followed_back": true
+    },
+    {
+      "username": "oluseguntayo",
+      "followed_on": "2026-06-20T07:42:14.312152",
+      "followed_back": true
+    },
+    {
+      "username": "FurkanAydn61",
+      "followed_on": "2026-06-20T07:42:16.140729",
+      "followed_back": false
+    },
+    {
+      "username": "MarcoZubieta",
+      "followed_on": "2026-06-20T07:42:55.674481",
+      "followed_back": true
+    },
+    {
+      "username": "KaratayBerkay",
+      "followed_on": "2026-06-20T07:42:57.678987",
+      "followed_back": true
+    },
+    {
+      "username": "kaianinja",
+      "followed_on": "2026-06-20T07:42:59.561046",
+      "followed_back": true
+    },
+    {
+      "username": "Jayanta-karmakar",
+      "followed_on": "2026-06-20T07:42:59.789773",
+      "followed_back": true
+    },
+    {
+      "username": "zykininho",
+      "followed_on": "2026-06-20T07:43:00.261567",
+      "followed_back": false
+    },
+    {
+      "username": "MahdiHaeri",
+      "followed_on": "2026-06-20T07:43:42.931856",
+      "followed_back": true
+    },
+    {
+      "username": "mohammadzalloum",
+      "followed_on": "2026-06-20T07:43:43.328941",
+      "followed_back": true
+    },
+    {
+      "username": "blockvoltcr7",
+      "followed_on": "2026-06-20T07:43:46.953619",
+      "followed_back": true
+    },
+    {
+      "username": "aaajit",
+      "followed_on": "2026-06-20T07:43:47.064127",
+      "followed_back": true
+    },
+    {
+      "username": "hritik-6918",
+      "followed_on": "2026-06-20T07:43:47.719500",
+      "followed_back": true
+    },
+    {
+      "username": "Shreysid",
+      "followed_on": "2026-06-20T07:43:48.246551",
+      "followed_back": true
+    },
+    {
+      "username": "Tony-kan",
+      "followed_on": "2026-06-20T07:43:49.655121",
+      "followed_back": true
+    },
+    {
+      "username": "AyushDocs",
+      "followed_on": "2026-06-20T07:43:51.939889",
+      "followed_back": false
+    },
+    {
+      "username": "j0n4t45d3v",
+      "followed_on": "2026-06-20T07:44:20.812098",
+      "followed_back": false
+    },
+    {
+      "username": "sriramaraju9010",
+      "followed_on": "2026-06-20T07:44:49.978620",
+      "followed_back": false
+    },
+    {
+      "username": "Marcos-Castillo",
+      "followed_on": "2026-06-20T07:45:32.988344",
+      "followed_back": false
+    },
+    {
+      "username": "Amrmamlook",
+      "followed_on": "2026-06-20T07:46:03.905417",
+      "followed_back": false
+    },
+    {
+      "username": "luis-ai-systems",
+      "followed_on": "2026-06-20T07:46:25.137845",
+      "followed_back": false
+    },
+    {
+      "username": "finnsql64",
+      "followed_on": "2026-06-20T07:46:50.405449",
+      "followed_back": false
+    },
+    {
+      "username": "doxathompson",
+      "followed_on": "2026-06-20T07:47:27.181445",
+      "followed_back": false
+    },
+    {
+      "username": "Mangesh636",
+      "followed_on": "2026-06-20T07:48:03.323340",
+      "followed_back": false
+    },
+    {
+      "username": "yacoubasawadogo",
+      "followed_on": "2026-06-20T07:48:25.429826",
+      "followed_back": false
+    },
+    {
+      "username": "Yaici-Yacine",
+      "followed_on": "2026-06-20T07:48:47.070761",
+      "followed_back": true
+    },
+    {
+      "username": "seylitanez",
+      "followed_on": "2026-06-20T07:49:12.915315",
+      "followed_back": false
+    },
+    {
+      "username": "Terminatorking",
+      "followed_on": "2026-06-20T07:49:47.776202",
+      "followed_back": false
+    },
+    {
+      "username": "zkoymen",
+      "followed_on": "2026-06-20T07:50:14.709377",
+      "followed_back": false
+    },
+    {
+      "username": "seyedalida",
+      "followed_on": "2026-06-20T07:51:03.278067",
+      "followed_back": false
+    },
+    {
+      "username": "EmmaAcquah",
+      "followed_on": "2026-06-20T07:51:31.052539",
+      "followed_back": false
+    },
+    {
+      "username": "artyomaroyan",
+      "followed_on": "2026-06-20T07:52:03.027707",
+      "followed_back": false
+    },
+    {
+      "username": "DanyaYanev",
+      "followed_on": "2026-06-20T07:52:28.101358",
+      "followed_back": false
+    },
+    {
+      "username": "ElIgnatjeva",
+      "followed_on": "2026-06-20T07:52:50.099799",
+      "followed_back": false
+    },
+    {
+      "username": "BrianTowett",
+      "followed_on": "2026-06-20T07:53:17.838269",
+      "followed_back": false
+    },
+    {
+      "username": "lazyfoxadddd",
+      "followed_on": "2026-06-20T07:53:51.822153",
+      "followed_back": false
+    },
+    {
+      "username": "Abdis10",
+      "followed_on": "2026-06-20T07:54:33.042588",
+      "followed_back": false
+    },
+    {
+      "username": "Vincentius474",
+      "followed_on": "2026-06-20T07:54:57.283888",
+      "followed_back": false
+    },
+    {
+      "username": "massimiliano762",
+      "followed_on": "2026-06-20T07:55:38.159056",
+      "followed_back": false
+    },
+    {
+      "username": "Shaganashree97",
+      "followed_on": "2026-06-20T07:56:01.291245",
+      "followed_back": false
+    },
+    {
+      "username": "smokecoffee",
+      "followed_on": "2026-06-22T09:35:59.327723",
+      "followed_back": false
+    },
+    {
+      "username": "CNiq527",
+      "followed_on": "2026-06-22T09:36:24.251636",
+      "followed_back": true
+    },
+    {
+      "username": "Aasiz",
+      "followed_on": "2026-06-22T09:36:38.261129",
+      "followed_back": false
+    },
+    {
+      "username": "nevzat",
+      "followed_on": "2026-06-22T09:37:34.918020",
+      "followed_back": true
+    },
+    {
+      "username": "martinizam",
+      "followed_on": "2026-06-22T09:37:40.530293",
+      "followed_back": true
+    },
+    {
+      "username": "VaibhavJain",
+      "followed_on": "2026-06-22T09:38:38.992114",
+      "followed_back": true
+    },
+    {
+      "username": "techsivam",
+      "followed_on": "2026-06-22T09:38:45.914365",
+      "followed_back": true
+    },
+    {
+      "username": "chandra1123",
+      "followed_on": "2026-06-22T09:39:23.307704",
+      "followed_back": true
+    },
+    {
+      "username": "avalosjuancarlos",
+      "followed_on": "2026-06-22T09:39:23.696385",
+      "followed_back": true
+    },
+    {
+      "username": "prab2112",
+      "followed_on": "2026-06-22T09:39:33.625506",
+      "followed_back": true
+    },
+    {
+      "username": "hellodk",
+      "followed_on": "2026-06-22T09:39:35.619843",
+      "followed_back": true
+    },
+    {
+      "username": "GenomicsNX",
+      "followed_on": "2026-06-22T09:39:36.511686",
+      "followed_back": true
+    },
+    {
+      "username": "irathana",
+      "followed_on": "2026-06-22T09:39:36.869073",
+      "followed_back": true
+    },
+    {
+      "username": "sankarav",
+      "followed_on": "2026-06-22T09:39:38.350943",
+      "followed_back": true
+    },
+    {
+      "username": "OaiaRoz",
+      "followed_on": "2026-06-22T09:39:39.693494",
+      "followed_back": true
+    },
+    {
+      "username": "the-it",
+      "followed_on": "2026-06-22T09:39:41.761428",
+      "followed_back": true
+    },
+    {
+      "username": "sunilg27",
+      "followed_on": "2026-06-22T09:39:41.762980",
+      "followed_back": true
+    },
+    {
+      "username": "dheerenmohta",
+      "followed_on": "2026-06-22T09:39:42.339439",
+      "followed_back": true
+    },
+    {
+      "username": "hackerheap",
+      "followed_on": "2026-06-22T09:39:44.244499",
+      "followed_back": true
+    },
+    {
+      "username": "irakov",
+      "followed_on": "2026-06-22T09:39:46.868639",
+      "followed_back": true
+    },
+    {
+      "username": "cramarnath",
+      "followed_on": "2026-06-22T09:39:52.565687",
+      "followed_back": true
+    },
+    {
+      "username": "Suryakant-Bharti",
+      "followed_on": "2026-06-22T09:39:53.455567",
+      "followed_back": true
+    },
+    {
+      "username": "gsantoshb",
+      "followed_on": "2026-06-22T09:39:55.272619",
+      "followed_back": true
+    },
+    {
+      "username": "pruthvi578",
+      "followed_on": "2026-06-22T09:40:02.829758",
+      "followed_back": true
+    },
+    {
+      "username": "casimirrex",
+      "followed_on": "2026-06-22T09:40:03.217107",
+      "followed_back": true
+    },
+    {
+      "username": "vikascjadhav",
+      "followed_on": "2026-06-22T09:40:13.820179",
+      "followed_back": true
+    },
+    {
+      "username": "piyushvardhan",
+      "followed_on": "2026-06-22T09:40:16.630128",
+      "followed_back": true
+    },
+    {
+      "username": "coulas",
+      "followed_on": "2026-06-22T09:40:17.262815",
+      "followed_back": true
+    },
+    {
+      "username": "wownepiece",
+      "followed_on": "2026-06-22T09:40:17.985803",
+      "followed_back": true
+    },
+    {
+      "username": "arussell82",
+      "followed_on": "2026-06-22T09:40:19.211016",
+      "followed_back": true
+    },
+    {
+      "username": "SwapnilPopat",
+      "followed_on": "2026-06-22T09:40:21.274089",
+      "followed_back": true
+    },
+    {
+      "username": "grseetha",
+      "followed_on": "2026-06-22T09:40:23.199789",
+      "followed_back": true
+    },
+    {
+      "username": "mailmevj",
+      "followed_on": "2026-06-22T09:40:27.107960",
+      "followed_back": false
+    },
+    {
+      "username": "amit4tech",
+      "followed_on": "2026-06-22T09:41:02.945066",
+      "followed_back": false
+    },
+    {
+      "username": "amit2014",
+      "followed_on": "2026-06-22T09:41:34.451640",
+      "followed_back": false
+    },
+    {
+      "username": "vicky9685",
+      "followed_on": "2026-06-22T09:42:20.057630",
+      "followed_back": false
+    },
+    {
+      "username": "yenaing",
+      "followed_on": "2026-06-22T09:43:14.524565",
+      "followed_back": false
+    },
+    {
+      "username": "baqlawi",
+      "followed_on": "2026-06-22T09:43:52.467035",
+      "followed_back": false
+    },
+    {
+      "username": "LoverAndrew",
+      "followed_on": "2026-06-22T09:44:18.031106",
+      "followed_back": false
+    },
+    {
+      "username": "createhand",
+      "followed_on": "2026-06-22T09:44:49.109166",
+      "followed_back": false
+    },
+    {
+      "username": "kyleggy",
+      "followed_on": "2026-06-22T09:45:17.845202",
+      "followed_back": false
+    },
+    {
+      "username": "DenisDuan",
+      "followed_on": "2026-06-22T09:45:57.155785",
+      "followed_back": false
+    },
+    {
+      "username": "hmcyrus",
+      "followed_on": "2026-06-22T09:46:46.376517",
+      "followed_back": false
+    },
+    {
+      "username": "isankha007",
+      "followed_on": "2026-06-22T09:47:08.367615",
+      "followed_back": false
+    },
+    {
+      "username": "aasee",
+      "followed_on": "2026-06-22T09:47:40.732564",
+      "followed_back": false
+    },
+    {
+      "username": "fagom",
+      "followed_on": "2026-06-22T09:48:17.965701",
+      "followed_back": false
+    },
+    {
+      "username": "ravocom",
+      "followed_on": "2026-06-22T09:48:55.472201",
+      "followed_back": false
+    },
+    {
+      "username": "paduris",
+      "followed_on": "2026-06-22T09:49:32.584574",
+      "followed_back": false
+    },
+    {
+      "username": "mubeenk",
+      "followed_on": "2026-06-22T09:50:08.122053",
+      "followed_back": false
+    },
+    {
+      "username": "gauravworkss",
+      "followed_on": "2026-06-22T09:50:48.543164",
+      "followed_back": false
+    },
+    {
+      "username": "coolWizard",
+      "followed_on": "2026-06-22T09:51:31.605730",
+      "followed_back": false
+    },
+    {
+      "username": "luxiaolululu",
+      "followed_on": "2026-06-22T09:52:05.935534",
+      "followed_back": false
+    },
+    {
+      "username": "xinghen91",
+      "followed_on": "2026-06-22T09:52:56.995714",
+      "followed_back": false
+    },
+    {
+      "username": "lemnyscate",
+      "followed_on": "2026-06-22T09:53:25.443917",
+      "followed_back": false
+    },
+    {
+      "username": "esdrasdemorais",
+      "followed_on": "2026-06-22T09:54:06.431343",
+      "followed_back": false
+    },
+    {
+      "username": "martinfou",
+      "followed_on": "2026-06-22T09:54:31.231174",
+      "followed_back": false
+    },
+    {
+      "username": "bmihovski",
+      "followed_on": "2026-06-22T09:55:05.729493",
+      "followed_back": false
+    },
+    {
+      "username": "rajatgupta0889",
+      "followed_on": "2026-06-22T09:55:43.148279",
+      "followed_back": false
+    },
+    {
+      "username": "sharajava",
+      "followed_on": "2026-06-22T09:56:09.427721",
+      "followed_back": false
+    },
+    {
+      "username": "teja463",
+      "followed_on": "2026-06-22T09:56:38.689121",
+      "followed_back": false
+    },
+    {
+      "username": "ashiyaman",
+      "followed_on": "2026-06-22T14:42:16.967464",
+      "followed_back": false
+    },
+    {
+      "username": "aniketchaudhari3",
+      "followed_on": "2026-06-22T14:42:49.806277",
+      "followed_back": false
+    },
+    {
+      "username": "akashjavali",
+      "followed_on": "2026-06-22T14:43:25.923189",
+      "followed_back": false
+    },
+    {
+      "username": "rajatjain-21",
+      "followed_on": "2026-06-22T14:43:52.674582",
+      "followed_back": false
+    },
+    {
+      "username": "SarmadBytes",
+      "followed_on": "2026-06-22T14:44:32.072115",
+      "followed_back": false
+    },
+    {
+      "username": "mayank-1",
+      "followed_on": "2026-06-22T14:45:06.039914",
+      "followed_back": false
+    },
+    {
+      "username": "theabbie",
+      "followed_on": "2026-06-22T14:45:51.737215",
+      "followed_back": false
+    },
+    {
+      "username": "abdulghanitech",
+      "followed_on": "2026-06-22T14:46:29.521247",
+      "followed_back": false
+    },
+    {
+      "username": "shubham1507",
+      "followed_on": "2026-06-22T14:46:57.532512",
+      "followed_back": false
+    },
+    {
+      "username": "PrinceSumberia",
+      "followed_on": "2026-06-22T14:47:37.394891",
+      "followed_back": false
+    },
+    {
+      "username": "shashankch",
+      "followed_on": "2026-06-22T14:48:25.167120",
+      "followed_back": true
+    },
+    {
+      "username": "surajsahani",
+      "followed_on": "2026-06-22T14:48:36.768243",
+      "followed_back": false
+    },
+    {
+      "username": "tanveertkd",
+      "followed_on": "2026-06-22T14:49:14.640153",
+      "followed_back": false
+    },
+    {
+      "username": "Uttkarsh-Srivastava",
+      "followed_on": "2026-06-22T14:49:55.350797",
+      "followed_back": false
+    },
+    {
+      "username": "AnmolTomer",
+      "followed_on": "2026-06-22T14:50:51.667290",
+      "followed_back": false
+    },
+    {
+      "username": "swaroopmaddu",
+      "followed_on": "2026-06-22T14:51:37.158059",
+      "followed_back": false
+    },
+    {
+      "username": "AndysWork",
+      "followed_on": "2026-06-22T14:52:03.558179",
+      "followed_back": false
+    },
+    {
+      "username": "TapasDash",
+      "followed_on": "2026-06-22T14:52:28.300065",
+      "followed_back": false
+    },
+    {
+      "username": "akshay-rajput",
+      "followed_on": "2026-06-22T14:53:13.673462",
+      "followed_back": false
+    },
+    {
+      "username": "akhil0101",
+      "followed_on": "2026-06-22T14:53:51.789269",
+      "followed_back": true
+    },
+    {
+      "username": "ritbikbharti",
+      "followed_on": "2026-06-22T14:53:52.648305",
+      "followed_back": false
+    },
+    {
+      "username": "yogeshdecodes",
+      "followed_on": "2026-06-22T14:54:32.191906",
+      "followed_back": false
+    },
+    {
+      "username": "ankitchouhan1020",
+      "followed_on": "2026-06-22T14:55:27.428931",
+      "followed_back": false
+    },
+    {
+      "username": "Akashmodi371",
+      "followed_on": "2026-06-22T14:56:11.808217",
+      "followed_back": false
+    },
+    {
+      "username": "aniketnimkar",
+      "followed_on": "2026-06-22T14:57:00.094369",
+      "followed_back": false
+    },
+    {
+      "username": "SiddPatki",
+      "followed_on": "2026-06-22T14:57:29.605307",
+      "followed_back": false
+    },
+    {
+      "username": "UtkarshK95",
+      "followed_on": "2026-06-22T14:58:19.221901",
+      "followed_back": true
+    },
+    {
+      "username": "dev-ameyjoshi",
+      "followed_on": "2026-06-22T14:58:21.321599",
+      "followed_back": false
+    },
+    {
+      "username": "Kunal-Ladhani",
+      "followed_on": "2026-06-22T14:58:42.063798",
+      "followed_back": true
+    },
+    {
+      "username": "suyashpradhan",
+      "followed_on": "2026-06-22T14:58:46.560566",
+      "followed_back": false
+    },
+    {
+      "username": "Meghana-sk",
+      "followed_on": "2026-06-22T14:59:24.640404",
+      "followed_back": false
+    },
+    {
+      "username": "Shivaansh-Agarwal",
+      "followed_on": "2026-06-22T14:59:58.570002",
+      "followed_back": false
+    },
+    {
+      "username": "Koushith",
+      "followed_on": "2026-06-22T15:00:34.747826",
+      "followed_back": false
+    },
+    {
+      "username": "ShivaShanmuganathan",
+      "followed_on": "2026-06-22T15:01:26.464443",
+      "followed_back": false
+    },
+    {
+      "username": "kunaltaitkar",
+      "followed_on": "2026-06-22T18:12:07.417369",
+      "followed_back": true
+    },
+    {
+      "username": "binokochumolvarghese",
+      "followed_on": "2026-06-22T18:12:12.022083",
+      "followed_back": true
+    },
+    {
+      "username": "sagezoic",
+      "followed_on": "2026-06-22T18:12:22.658258",
+      "followed_back": true
+    },
+    {
+      "username": "akshaybharambe14",
+      "followed_on": "2026-06-22T18:12:22.660605",
+      "followed_back": true
+    },
+    {
+      "username": "crstnmac",
+      "followed_on": "2026-06-22T18:12:22.662806",
+      "followed_back": true
+    },
+    {
+      "username": "kshitijashetty",
+      "followed_on": "2026-06-22T18:12:23.256843",
+      "followed_back": true
+    },
+    {
+      "username": "amit265",
+      "followed_on": "2026-06-22T18:12:29.353897",
+      "followed_back": true
+    },
+    {
+      "username": "deepakgarg08",
+      "followed_on": "2026-06-22T18:12:32.791354",
+      "followed_back": true
+    },
+    {
+      "username": "faisalkhandev",
+      "followed_on": "2026-06-22T18:12:33.654644",
+      "followed_back": true
+    },
+    {
+      "username": "irfan0807",
+      "followed_on": "2026-06-22T18:12:33.657245",
+      "followed_back": true
+    },
+    {
+      "username": "RohitV5",
+      "followed_on": "2026-06-22T18:12:33.659424",
+      "followed_back": true
+    },
+    {
+      "username": "lagalwar007",
+      "followed_on": "2026-06-22T18:12:33.661538",
+      "followed_back": true
+    },
+    {
+      "username": "sumeetweb",
+      "followed_on": "2026-06-22T18:12:37.560561",
+      "followed_back": true
+    },
+    {
+      "username": "Therushi",
+      "followed_on": "2026-06-22T18:12:38.121878",
+      "followed_back": true
+    },
+    {
+      "username": "bwaj95",
+      "followed_on": "2026-06-22T18:12:38.124307",
+      "followed_back": true
+    },
+    {
+      "username": "Sindhura30",
+      "followed_on": "2026-06-22T18:12:40.645362",
+      "followed_back": true
+    },
+    {
+      "username": "ajayhit",
+      "followed_on": "2026-06-22T18:12:41.706099",
+      "followed_back": true
+    },
+    {
+      "username": "LuciKritZ",
+      "followed_on": "2026-06-22T18:12:42.221844",
+      "followed_back": true
+    },
+    {
+      "username": "sinha97",
+      "followed_on": "2026-06-22T18:12:42.224436",
+      "followed_back": true
+    },
+    {
+      "username": "AMARTYA149",
+      "followed_on": "2026-06-22T18:12:43.458455",
+      "followed_back": true
+    },
+    {
+      "username": "HarshalShende",
+      "followed_on": "2026-06-22T18:12:43.460933",
+      "followed_back": true
+    },
+    {
+      "username": "NeerajaGandla",
+      "followed_on": "2026-06-22T18:12:43.463135",
+      "followed_back": true
+    },
+    {
+      "username": "lokeshparmar998",
+      "followed_on": "2026-06-22T18:12:44.712703",
+      "followed_back": true
+    },
+    {
+      "username": "anantio",
+      "followed_on": "2026-06-22T18:12:45.382818",
+      "followed_back": true
+    },
+    {
+      "username": "Prajjwal22",
+      "followed_on": "2026-06-22T18:12:46.866700",
+      "followed_back": true
+    },
+    {
+      "username": "Guru426",
+      "followed_on": "2026-06-22T18:12:47.087079",
+      "followed_back": true
+    },
+    {
+      "username": "hightarun",
+      "followed_on": "2026-06-22T18:12:49.555038",
+      "followed_back": true
+    },
+    {
+      "username": "iamcharankumar",
+      "followed_on": "2026-06-22T18:12:50.133726",
+      "followed_back": true
+    },
+    {
+      "username": "Chetansbiradar",
+      "followed_on": "2026-06-22T18:12:50.419514",
+      "followed_back": true
+    },
+    {
+      "username": "ashwani2",
+      "followed_on": "2026-06-22T18:12:51.378386",
+      "followed_back": true
+    },
+    {
+      "username": "hemantghatawal",
+      "followed_on": "2026-06-22T18:12:52.279272",
+      "followed_back": true
+    },
+    {
+      "username": "rajeev1202",
+      "followed_on": "2026-06-22T18:12:52.425826",
+      "followed_back": true
+    },
+    {
+      "username": "EswaramoorthyKarthikeyan",
+      "followed_on": "2026-06-22T18:12:52.428337",
+      "followed_back": true
+    },
+    {
+      "username": "Sushraj",
+      "followed_on": "2026-06-22T18:12:52.430777",
+      "followed_back": true
+    },
+    {
+      "username": "kos15",
+      "followed_on": "2026-06-22T18:12:54.126048",
+      "followed_back": true
+    },
+    {
+      "username": "purohitdheeraj",
+      "followed_on": "2026-06-22T18:12:54.477652",
+      "followed_back": true
+    },
+    {
+      "username": "Mainak10",
+      "followed_on": "2026-06-22T18:12:55.775630",
+      "followed_back": true
+    },
+    {
+      "username": "praveen5959",
+      "followed_on": "2026-06-22T18:12:56.031825",
+      "followed_back": true
+    },
+    {
+      "username": "farhanpro",
+      "followed_on": "2026-06-22T18:12:58.195159",
+      "followed_back": true
+    },
+    {
+      "username": "nsharma1396",
+      "followed_on": "2026-06-22T18:12:58.445293",
+      "followed_back": true
+    },
+    {
+      "username": "durshettibalaji",
+      "followed_on": "2026-06-22T18:12:59.765686",
+      "followed_back": true
+    },
+    {
+      "username": "dtsuper3",
+      "followed_on": "2026-06-22T18:13:01.682042",
+      "followed_back": true
+    },
+    {
+      "username": "PrashantIndurkar",
+      "followed_on": "2026-06-22T18:13:01.912550",
+      "followed_back": true
+    },
+    {
+      "username": "MaheshPawaar",
+      "followed_on": "2026-06-22T18:13:02.610070",
+      "followed_back": true
+    },
+    {
+      "username": "abhijeet-maharana",
+      "followed_on": "2026-06-22T18:13:03.413485",
+      "followed_back": true
+    },
+    {
+      "username": "amandhunna",
+      "followed_on": "2026-06-22T18:13:04.021131",
+      "followed_back": true
+    },
+    {
+      "username": "Sushma-13",
+      "followed_on": "2026-06-22T18:13:04.406815",
+      "followed_back": true
+    },
+    {
+      "username": "dzungdoanh",
+      "followed_on": "2026-06-22T18:13:06.815675",
+      "followed_back": true
+    },
+    {
+      "username": "prateekshourya29",
+      "followed_on": "2026-06-22T18:13:07.283912",
+      "followed_back": true
+    },
+    {
+      "username": "sairanjit",
+      "followed_on": "2026-06-22T18:13:08.422042",
+      "followed_back": true
+    },
+    {
+      "username": "iamshiv4m",
+      "followed_on": "2026-06-22T18:13:08.683425",
+      "followed_back": true
+    },
+    {
+      "username": "vetrisuriya",
+      "followed_on": "2026-06-22T18:13:08.834691",
+      "followed_back": true
+    },
+    {
+      "username": "devshahrukhanwar",
+      "followed_on": "2026-06-22T18:13:11.738724",
+      "followed_back": true
+    },
+    {
+      "username": "ebe25",
+      "followed_on": "2026-06-22T18:13:12.388762",
+      "followed_back": false
+    },
+    {
+      "username": "akr7205",
+      "followed_on": "2026-06-22T18:13:51.206324",
+      "followed_back": false
+    },
+    {
+      "username": "ntshvicky",
+      "followed_on": "2026-06-22T18:14:16.292431",
+      "followed_back": false
+    },
+    {
+      "username": "hammadansari52",
+      "followed_on": "2026-06-22T18:14:49.265395",
+      "followed_back": false
+    },
+    {
+      "username": "tarunrana1998",
+      "followed_on": "2026-06-22T18:15:32.966150",
+      "followed_back": false
+    },
+    {
+      "username": "manjunath00",
+      "followed_on": "2026-06-22T18:16:18.531032",
+      "followed_back": false
+    },
+    {
+      "username": "abhishekyadavz",
+      "followed_on": "2026-06-22T18:16:46.791648",
+      "followed_back": false
+    },
+    {
+      "username": "abhishekwacky",
+      "followed_on": "2026-06-22T18:17:11.096629",
+      "followed_back": false
+    },
+    {
+      "username": "way2nizam",
+      "followed_on": "2026-06-22T18:17:52.826123",
+      "followed_back": false
+    },
+    {
+      "username": "Vijaynw",
+      "followed_on": "2026-06-22T18:18:25.135423",
+      "followed_back": false
+    },
+    {
+      "username": "cybertron288",
+      "followed_on": "2026-06-22T18:18:57.757360",
+      "followed_back": false
+    },
+    {
+      "username": "geekyasif",
+      "followed_on": "2026-06-22T18:19:46.411423",
+      "followed_back": false
+    },
+    {
+      "username": "AkhilAgg777",
+      "followed_on": "2026-06-22T18:20:37.900579",
+      "followed_back": false
+    },
+    {
+      "username": "roysunanda",
+      "followed_on": "2026-06-22T18:21:26.757000",
+      "followed_back": false
+    },
+    {
+      "username": "ramim-islam",
+      "followed_on": "2026-06-22T18:22:07.826132",
+      "followed_back": false
+    },
+    {
+      "username": "Raman9937",
+      "followed_on": "2026-06-22T18:22:35.169261",
+      "followed_back": false
+    },
+    {
+      "username": "vsvishal",
+      "followed_on": "2026-06-22T18:23:12.218933",
+      "followed_back": false
+    },
+    {
+      "username": "DheerajMahra",
+      "followed_on": "2026-06-22T18:23:38.228630",
+      "followed_back": false
+    },
+    {
+      "username": "PrashantJha3",
+      "followed_on": "2026-06-22T18:24:23.283232",
+      "followed_back": false
+    },
+    {
+      "username": "aseerkt",
+      "followed_on": "2026-06-22T18:24:58.439478",
+      "followed_back": false
+    },
+    {
+      "username": "rkchoudhury",
+      "followed_on": "2026-06-22T18:25:21.551059",
+      "followed_back": false
+    },
+    {
+      "username": "rohangore1999",
+      "followed_on": "2026-06-22T18:26:06.715807",
+      "followed_back": false
+    },
+    {
+      "username": "santanujana12",
+      "followed_on": "2026-06-22T18:26:31.366786",
+      "followed_back": false
+    },
+    {
+      "username": "namitmalasi",
+      "followed_on": "2026-06-22T18:27:06.354729",
+      "followed_back": false
+    },
+    {
+      "username": "hemlalbht",
+      "followed_on": "2026-06-22T18:27:33.239931",
+      "followed_back": false
+    },
+    {
+      "username": "vinaynarayankutty",
+      "followed_on": "2026-06-22T18:28:22.951418",
+      "followed_back": false
+    },
+    {
+      "username": "kobal96",
+      "followed_on": "2026-06-22T18:29:06.108398",
+      "followed_back": false
+    },
+    {
+      "username": "shubhamkhatik",
+      "followed_on": "2026-06-22T18:29:53.866567",
+      "followed_back": false
+    },
+    {
+      "username": "AnandMaurya24",
+      "followed_on": "2026-06-22T18:30:28.711638",
+      "followed_back": false
+    },
+    {
+      "username": "Harn1sH",
+      "followed_on": "2026-06-22T18:31:01.560326",
+      "followed_back": false
+    },
+    {
+      "username": "KHANSIRAJ",
+      "followed_on": "2026-06-23T07:36:35.629162",
+      "followed_back": false
+    },
+    {
+      "username": "pradipchaudhary",
+      "followed_on": "2026-06-23T07:38:16.600040",
+      "followed_back": false
+    },
+    {
+      "username": "supminn",
+      "followed_on": "2026-06-23T07:38:49.197848",
+      "followed_back": false
+    },
+    {
+      "username": "anupkgurung",
+      "followed_on": "2026-06-23T07:39:17.413154",
+      "followed_back": false
+    },
+    {
+      "username": "adil-Pathan",
+      "followed_on": "2026-06-23T07:39:44.655273",
+      "followed_back": false
+    },
+    {
+      "username": "Sahejeets7",
+      "followed_on": "2026-06-23T07:40:10.883646",
+      "followed_back": false
+    },
+    {
+      "username": "ParthShuklaa",
+      "followed_on": "2026-06-23T07:40:54.032757",
+      "followed_back": false
+    },
+    {
+      "username": "iamsurajdc",
+      "followed_on": "2026-06-23T07:41:34.162495",
+      "followed_back": false
+    },
+    {
+      "username": "arunkumar0398",
+      "followed_on": "2026-06-23T07:42:26.705106",
+      "followed_back": false
+    },
+    {
+      "username": "mhhemanth",
+      "followed_on": "2026-06-23T07:43:08.261675",
+      "followed_back": false
+    },
+    {
+      "username": "iamyogeshtomar",
+      "followed_on": "2026-06-23T07:43:37.647193",
+      "followed_back": false
+    },
+    {
+      "username": "percius47",
+      "followed_on": "2026-06-23T07:44:15.808069",
+      "followed_back": false
+    },
+    {
+      "username": "Usamaliaquat123",
+      "followed_on": "2026-06-23T07:44:43.832874",
+      "followed_back": false
+    },
+    {
+      "username": "mikr13",
+      "followed_on": "2026-06-23T07:45:26.192203",
+      "followed_back": false
+    },
+    {
+      "username": "ajaidanial",
+      "followed_on": "2026-06-23T07:46:04.254885",
+      "followed_back": false
+    },
+    {
+      "username": "amarphule",
+      "followed_on": "2026-06-23T07:46:52.950951",
+      "followed_back": false
+    },
+    {
+      "username": "Vaibhavv23",
+      "followed_on": "2026-06-23T07:47:33.568538",
+      "followed_back": false
+    },
+    {
+      "username": "kruzes1",
+      "followed_on": "2026-06-23T07:48:15.492133",
+      "followed_back": false
+    },
+    {
+      "username": "sabya2301",
+      "followed_on": "2026-06-23T07:48:58.854697",
+      "followed_back": false
+    },
+    {
+      "username": "KKshitiz",
+      "followed_on": "2026-06-23T07:49:29.819525",
+      "followed_back": false
+    },
+    {
+      "username": "SaiBhargavRallapalli",
+      "followed_on": "2026-06-23T07:50:15.969934",
+      "followed_back": false
+    },
+    {
+      "username": "aceandro2812",
+      "followed_on": "2026-06-23T07:50:58.910954",
+      "followed_back": false
+    },
+    {
+      "username": "Aditya20kul",
+      "followed_on": "2026-06-23T07:51:30.176166",
+      "followed_back": false
+    },
+    {
+      "username": "atulbhatt-system32",
+      "followed_on": "2026-06-23T07:52:12.010052",
+      "followed_back": false
+    },
+    {
+      "username": "shashankbhat2",
+      "followed_on": "2026-06-23T07:52:33.531620",
+      "followed_back": false
+    },
+    {
+      "username": "shashankorthiwada",
+      "followed_on": "2026-06-23T07:53:08.307650",
+      "followed_back": false
+    },
+    {
+      "username": "piyaarora",
+      "followed_on": "2026-06-23T07:53:59.030982",
+      "followed_back": false
+    },
+    {
+      "username": "ComputerScientist-01",
+      "followed_on": "2026-06-23T07:54:24.742027",
+      "followed_back": false
+    },
+    {
+      "username": "JDMansion",
+      "followed_on": "2026-06-23T07:55:04.616496",
+      "followed_back": false
+    },
+    {
+      "username": "sumitra1",
+      "followed_on": "2026-06-23T07:55:26.497034",
+      "followed_back": false
+    },
+    {
+      "username": "rohit1121996",
+      "followed_on": "2026-06-23T16:27:37.719150",
+      "followed_back": false
+    },
+    {
+      "username": "aryansindhi18",
+      "followed_on": "2026-06-23T16:28:32.886732",
+      "followed_back": true
+    },
+    {
+      "username": "SatYu26",
+      "followed_on": "2026-06-23T16:28:52.406948",
+      "followed_back": true
+    },
+    {
+      "username": "milindkusahu",
+      "followed_on": "2026-06-23T16:28:52.680109",
+      "followed_back": true
+    },
+    {
+      "username": "nilesh0627",
+      "followed_on": "2026-06-23T16:28:55.632626",
+      "followed_back": true
+    },
+    {
+      "username": "rahimnagori",
+      "followed_on": "2026-06-23T16:28:56.505939",
+      "followed_back": false
+    },
+    {
+      "username": "Kshitinjay",
+      "followed_on": "2026-06-23T16:29:42.491453",
+      "followed_back": false
+    },
+    {
+      "username": "Neha-Khemchandani-52",
+      "followed_on": "2026-06-23T16:30:15.534325",
+      "followed_back": false
+    },
+    {
+      "username": "feroxcore",
+      "followed_on": "2026-06-23T16:30:55.037738",
+      "followed_back": false
+    },
+    {
+      "username": "manav10799",
+      "followed_on": "2026-06-23T16:31:26.414264",
+      "followed_back": false
+    },
+    {
+      "username": "chintansaxena",
+      "followed_on": "2026-06-23T16:31:56.133212",
+      "followed_back": false
+    },
+    {
+      "username": "manju0912",
+      "followed_on": "2026-06-23T16:32:36.508986",
+      "followed_back": false
+    },
+    {
+      "username": "Amirsohail335",
+      "followed_on": "2026-06-23T16:33:10.848791",
+      "followed_back": false
+    },
+    {
+      "username": "sonipranjal",
+      "followed_on": "2026-06-23T16:34:03.445864",
+      "followed_back": false
+    },
+    {
+      "username": "harshgandhi-1999",
+      "followed_on": "2026-06-23T16:34:27.216573",
+      "followed_back": false
+    },
+    {
+      "username": "PushpakB3096",
+      "followed_on": "2026-06-23T16:35:05.954780",
+      "followed_back": false
+    },
+    {
+      "username": "umaidansari12",
+      "followed_on": "2026-06-23T16:35:33.992408",
+      "followed_back": false
+    },
+    {
+      "username": "guptajyoti845",
+      "followed_on": "2026-06-23T16:36:11.096057",
+      "followed_back": false
+    },
+    {
+      "username": "FurquanAnwer",
+      "followed_on": "2026-06-23T16:36:50.268348",
+      "followed_back": false
+    },
+    {
+      "username": "shreya-online",
+      "followed_on": "2026-06-23T16:37:25.806820",
+      "followed_back": false
+    },
+    {
+      "username": "paraggoyal28",
+      "followed_on": "2026-06-23T16:38:16.418707",
+      "followed_back": false
+    },
+    {
+      "username": "him7797",
+      "followed_on": "2026-06-23T16:38:40.951569",
+      "followed_back": false
+    },
+    {
+      "username": "amit-pathak-git",
+      "followed_on": "2026-06-23T16:39:21.524487",
+      "followed_back": false
+    },
+    {
+      "username": "RiteshYadavCNB",
+      "followed_on": "2026-06-23T16:40:07.160305",
+      "followed_back": false
+    },
+    {
+      "username": "yashgoyal2802",
+      "followed_on": "2026-06-23T16:40:49.928097",
+      "followed_back": false
+    },
+    {
+      "username": "SAMAYV",
+      "followed_on": "2026-06-23T16:41:42.976022",
+      "followed_back": false
+    },
+    {
+      "username": "Rahulboraa",
+      "followed_on": "2026-06-23T16:42:16.820671",
+      "followed_back": false
+    },
+    {
+      "username": "slhnx",
+      "followed_on": "2026-06-23T16:42:47.004035",
+      "followed_back": false
+    },
+    {
+      "username": "dhrvrm",
+      "followed_on": "2026-06-23T16:43:15.110482",
+      "followed_back": false
+    },
+    {
+      "username": "stutisk",
+      "followed_on": "2026-06-23T16:43:46.644565",
+      "followed_back": false
+    },
+    {
+      "username": "Vivekagent47",
+      "followed_on": "2026-06-23T16:44:07.928197",
+      "followed_back": false
+    },
+    {
+      "username": "Suchana34",
+      "followed_on": "2026-06-23T16:44:47.153602",
+      "followed_back": false
+    },
+    {
+      "username": "Faranheit15",
+      "followed_on": "2026-06-23T16:45:16.738519",
+      "followed_back": false
+    },
+    {
+      "username": "shrutiag14",
+      "followed_on": "2026-06-23T16:45:38.886555",
+      "followed_back": false
+    },
+    {
+      "username": "shuxiaohai",
+      "followed_on": "2026-06-24T07:29:42.153328",
+      "followed_back": true
+    },
+    {
+      "username": "BeanVortex",
+      "followed_on": "2026-06-24T07:29:47.054453",
+      "followed_back": true
+    },
+    {
+      "username": "PengningYang",
+      "followed_on": "2026-06-24T07:29:51.541440",
+      "followed_back": true
+    },
+    {
+      "username": "wasng",
+      "followed_on": "2026-06-24T07:29:52.862404",
+      "followed_back": true
+    },
+    {
+      "username": "Siddhant",
+      "followed_on": "2026-06-24T07:29:53.643949",
+      "followed_back": true
+    },
+    {
+      "username": "CodeNofish",
+      "followed_on": "2026-06-24T07:29:53.647842",
+      "followed_back": true
+    },
+    {
+      "username": "vision-qiu",
+      "followed_on": "2026-06-24T07:29:53.651009",
+      "followed_back": true
+    },
+    {
+      "username": "newcworld",
+      "followed_on": "2026-06-24T07:29:54.631159",
+      "followed_back": true
+    },
+    {
+      "username": "gaox587",
+      "followed_on": "2026-06-24T07:29:54.998927",
+      "followed_back": true
+    },
+    {
+      "username": "tndavaloz",
+      "followed_on": "2026-06-24T11:45:59.389008",
+      "followed_back": false
+    },
+    {
+      "username": "andiraduta",
+      "followed_on": "2026-06-24T11:46:39.051015",
+      "followed_back": false
+    },
+    {
+      "username": "akalex",
+      "followed_on": "2026-06-24T11:47:04.588867",
+      "followed_back": false
+    },
+    {
+      "username": "jasubal",
+      "followed_on": "2026-06-25T07:30:49.365076",
+      "followed_back": false
+    },
+    {
+      "username": "worldofprasanna",
+      "followed_on": "2026-06-25T07:31:17.355289",
+      "followed_back": false
+    },
+    {
+      "username": "da-vaibhav",
+      "followed_on": "2026-06-25T07:31:42.756728",
+      "followed_back": false
+    },
+    {
+      "username": "d3ep4k",
+      "followed_on": "2026-06-25T07:32:24.892772",
+      "followed_back": false
+    },
+    {
+      "username": "yogeshmpandey",
+      "followed_on": "2026-06-25T07:32:49.762690",
+      "followed_back": false
+    },
+    {
+      "username": "abhi6699",
+      "followed_on": "2026-06-25T07:33:26.895425",
+      "followed_back": false
+    },
+    {
+      "username": "sruthihsr",
+      "followed_on": "2026-06-25T07:33:53.576021",
+      "followed_back": false
+    },
+    {
+      "username": "pradeepku123",
+      "followed_on": "2026-06-25T07:34:43.031311",
+      "followed_back": false
+    },
+    {
+      "username": "AvinashDalvi89",
+      "followed_on": "2026-06-25T07:35:17.525696",
+      "followed_back": false
+    },
+    {
+      "username": "anshulsahni",
+      "followed_on": "2026-06-25T07:35:44.148532",
+      "followed_back": false
+    },
+    {
+      "username": "MathanKA",
+      "followed_on": "2026-06-25T07:36:14.752423",
+      "followed_back": false
+    },
+    {
+      "username": "valerianpereira",
+      "followed_on": "2026-06-25T07:36:55.864761",
+      "followed_back": false
+    },
+    {
+      "username": "dr5hn",
+      "followed_on": "2026-06-25T07:37:20.263276",
+      "followed_back": false
+    },
+    {
+      "username": "amirnaeem",
+      "followed_on": "2026-06-25T07:37:59.650933",
+      "followed_back": false
+    },
+    {
+      "username": "FreakPirate",
+      "followed_on": "2026-06-25T07:38:23.710078",
+      "followed_back": false
+    },
+    {
+      "username": "vkondi",
+      "followed_on": "2026-06-25T07:39:01.788212",
+      "followed_back": false
+    },
+    {
+      "username": "sridhar-sp",
+      "followed_on": "2026-06-25T07:39:52.320251",
+      "followed_back": false
+    },
+    {
+      "username": "prakashpandey",
+      "followed_on": "2026-06-25T07:40:43.591471",
+      "followed_back": false
+    },
+    {
+      "username": "sndsabin",
+      "followed_on": "2026-06-25T07:41:31.900381",
+      "followed_back": false
+    },
+    {
+      "username": "yashrajnayak",
+      "followed_on": "2026-06-25T07:42:20.072512",
+      "followed_back": false
+    },
+    {
+      "username": "sunilbittu",
+      "followed_on": "2026-06-25T07:42:44.038721",
+      "followed_back": false
+    },
+    {
+      "username": "0xkrishna17",
+      "followed_on": "2026-06-25T07:43:13.664005",
+      "followed_back": false
+    },
+    {
+      "username": "ShahAnuj2610",
+      "followed_on": "2026-06-25T07:43:37.108121",
+      "followed_back": false
+    },
+    {
+      "username": "krushnatkhawale",
+      "followed_on": "2026-06-25T07:44:04.048707",
+      "followed_back": false
+    },
+    {
+      "username": "kunal-singh",
+      "followed_on": "2026-06-25T07:44:38.075285",
+      "followed_back": false
+    },
+    {
+      "username": "bhagatsaurabh",
+      "followed_on": "2026-06-25T07:45:05.167343",
+      "followed_back": false
+    },
+    {
+      "username": "heihitesh",
+      "followed_on": "2026-06-25T07:45:31.100424",
+      "followed_back": false
+    },
+    {
+      "username": "dkaushikl",
+      "followed_on": "2026-06-25T07:46:10.377116",
+      "followed_back": false
+    },
+    {
+      "username": "hhshii",
+      "followed_on": "2026-06-25T07:46:42.578282",
+      "followed_back": false
+    },
+    {
+      "username": "Ultrasubha",
+      "followed_on": "2026-06-25T07:47:21.512865",
+      "followed_back": false
+    },
+    {
+      "username": "atsumo",
+      "followed_on": "2026-06-25T16:22:15.959215",
+      "followed_back": true
+    },
+    {
+      "username": "cookiemonster",
+      "followed_on": "2026-06-25T16:22:16.472329",
+      "followed_back": true
+    },
+    {
+      "username": "vins13pattar",
+      "followed_on": "2026-06-25T16:22:16.475362",
+      "followed_back": true
+    },
+    {
+      "username": "atultiwari",
+      "followed_on": "2026-06-25T16:22:19.626038",
+      "followed_back": true
+    },
+    {
+      "username": "ruudhaya",
+      "followed_on": "2026-06-25T16:22:21.685962",
+      "followed_back": true
+    },
+    {
+      "username": "mohd14shoeb",
+      "followed_on": "2026-06-25T16:22:21.895905",
+      "followed_back": true
+    },
+    {
+      "username": "subbutvl",
+      "followed_on": "2026-06-25T16:22:22.129633",
+      "followed_back": true
+    },
+    {
+      "username": "sandeepk17",
+      "followed_on": "2026-06-25T16:22:25.883797",
+      "followed_back": true
+    },
+    {
+      "username": "zhoufeng1989",
+      "followed_on": "2026-06-25T16:22:32.357205",
+      "followed_back": true
+    },
+    {
+      "username": "renattobnb",
+      "followed_on": "2026-06-25T16:22:33.282005",
+      "followed_back": true
+    },
+    {
+      "username": "tushu",
+      "followed_on": "2026-06-25T16:22:36.602393",
+      "followed_back": true
+    },
+    {
+      "username": "gandalivs",
+      "followed_on": "2026-06-25T16:22:43.102021",
+      "followed_back": true
+    },
+    {
+      "username": "bcihanc",
+      "followed_on": "2026-06-25T16:22:44.533780",
+      "followed_back": true
+    },
+    {
+      "username": "Aifar",
+      "followed_on": "2026-06-25T16:22:45.730193",
+      "followed_back": true
+    },
+    {
+      "username": "DrRO",
+      "followed_on": "2026-06-25T16:22:47.399935",
+      "followed_back": true
+    },
+    {
+      "username": "huoshi5151",
+      "followed_on": "2026-06-25T16:22:48.886405",
+      "followed_back": true
+    },
+    {
+      "username": "J3m5",
+      "followed_on": "2026-06-25T16:22:50.473658",
+      "followed_back": true
+    },
+    {
+      "username": "Volcanoscar",
+      "followed_on": "2026-06-25T16:22:54.044479",
+      "followed_back": true
+    },
+    {
+      "username": "rush-skills",
+      "followed_on": "2026-06-25T16:22:56.226967",
+      "followed_back": true
+    },
+    {
+      "username": "DineshKachhot",
+      "followed_on": "2026-06-25T16:22:58.622788",
+      "followed_back": true
+    },
+    {
+      "username": "elyulka",
+      "followed_on": "2026-06-25T16:23:03.950695",
+      "followed_back": true
+    },
+    {
+      "username": "frankxzx",
+      "followed_on": "2026-06-25T16:23:14.078301",
+      "followed_back": true
+    },
+    {
+      "username": "jianguda",
+      "followed_on": "2026-06-25T16:23:16.274609",
+      "followed_back": true
+    },
+    {
+      "username": "senthilece01",
+      "followed_on": "2026-06-25T16:23:23.352032",
+      "followed_back": true
+    },
+    {
+      "username": "tanifort",
+      "followed_on": "2026-06-25T16:23:25.887597",
+      "followed_back": true
+    },
+    {
+      "username": "aiical",
+      "followed_on": "2026-06-25T16:23:27.575695",
+      "followed_back": true
+    },
+    {
+      "username": "alexweininger",
+      "followed_on": "2026-06-25T16:23:32.376931",
+      "followed_back": true
+    },
+    {
+      "username": "itsbohara",
+      "followed_on": "2026-06-25T16:23:38.274321",
+      "followed_back": true
+    },
+    {
+      "username": "bunyamineymen",
+      "followed_on": "2026-06-25T16:23:40.735416",
+      "followed_back": true
+    },
+    {
+      "username": "imtusharrai",
+      "followed_on": "2026-06-25T16:23:42.730022",
+      "followed_back": true
+    },
+    {
+      "username": "da7om85",
+      "followed_on": "2026-06-25T16:23:44.456660",
+      "followed_back": true
+    },
+    {
+      "username": "farhadsaberi",
+      "followed_on": "2026-06-25T16:23:45.854555",
+      "followed_back": true
+    },
+    {
+      "username": "esirioneyibo",
+      "followed_on": "2026-06-25T16:23:48.818736",
+      "followed_back": true
+    },
+    {
+      "username": "kpradeepkumarreddy",
+      "followed_on": "2026-06-25T16:23:50.729675",
+      "followed_back": true
+    },
+    {
+      "username": "yugyesh",
+      "followed_on": "2026-06-25T16:23:59.341675",
+      "followed_back": true
+    },
+    {
+      "username": "WeslleyQIZero",
+      "followed_on": "2026-06-25T16:24:03.335433",
+      "followed_back": true
+    },
+    {
+      "username": "yuzili333",
+      "followed_on": "2026-06-25T16:24:04.067834",
+      "followed_back": true
+    },
+    {
+      "username": "shivanandmn",
+      "followed_on": "2026-06-25T16:24:19.456959",
+      "followed_back": true
+    },
+    {
+      "username": "vikasdubeyyy",
+      "followed_on": "2026-06-25T16:24:22.079828",
+      "followed_back": true
+    },
+    {
+      "username": "gat786",
+      "followed_on": "2026-06-25T16:24:23.316202",
+      "followed_back": true
+    },
+    {
+      "username": "Abhijithsp",
+      "followed_on": "2026-06-25T16:24:23.803348",
+      "followed_back": true
+    },
+    {
+      "username": "zimnhashman",
+      "followed_on": "2026-06-25T16:24:25.959791",
+      "followed_back": true
+    },
+    {
+      "username": "Mifrill",
+      "followed_on": "2026-06-25T16:24:26.415020",
+      "followed_back": true
+    },
+    {
+      "username": "DuaneDuan",
+      "followed_on": "2026-06-25T16:24:32.349425",
+      "followed_back": true
+    },
+    {
+      "username": "ajayvavdiya",
+      "followed_on": "2026-06-25T16:24:42.779864",
+      "followed_back": true
+    },
+    {
+      "username": "maulikdadhaniya",
+      "followed_on": "2026-06-25T16:24:49.678253",
+      "followed_back": true
+    },
+    {
+      "username": "pyl0v3r",
+      "followed_on": "2026-06-25T16:24:54.301232",
+      "followed_back": true
+    },
+    {
+      "username": "vijaydhakal",
+      "followed_on": "2026-06-25T16:24:58.604106",
+      "followed_back": true
+    },
+    {
+      "username": "richardsonjf",
+      "followed_on": "2026-06-25T16:25:00.242065",
+      "followed_back": true
+    },
+    {
+      "username": "JayTailor45",
+      "followed_on": "2026-06-25T16:25:01.471671",
+      "followed_back": true
+    },
+    {
+      "username": "andronedev",
+      "followed_on": "2026-06-25T16:25:06.072562",
+      "followed_back": true
+    },
+    {
+      "username": "yatharth1706",
+      "followed_on": "2026-06-25T16:25:08.774622",
+      "followed_back": true
+    },
+    {
+      "username": "mishra00724",
+      "followed_on": "2026-06-25T16:25:09.745743",
+      "followed_back": true
+    },
+    {
+      "username": "alexlevn",
+      "followed_on": "2026-06-25T16:25:10.172072",
+      "followed_back": true
+    },
+    {
+      "username": "sorayuth-pep",
+      "followed_on": "2026-06-25T16:25:11.888238",
+      "followed_back": true
+    },
+    {
+      "username": "Amritacharya",
+      "followed_on": "2026-06-25T16:25:17.019623",
+      "followed_back": true
+    },
+    {
+      "username": "sunildhiman90",
+      "followed_on": "2026-06-25T16:25:23.279426",
+      "followed_back": true
+    },
+    {
+      "username": "c1c3ru",
+      "followed_on": "2026-06-25T16:25:23.282856",
+      "followed_back": true
+    },
+    {
+      "username": "miich43l",
+      "followed_on": "2026-06-25T16:25:30.181630",
+      "followed_back": true
+    },
+    {
+      "username": "bharatmk2567",
+      "followed_on": "2026-06-25T16:25:37.497664",
+      "followed_back": true
+    },
+    {
+      "username": "Ahmad4041",
+      "followed_on": "2026-06-25T16:25:41.280749",
+      "followed_back": false
+    },
+    {
+      "username": "masterashu",
+      "followed_on": "2026-06-25T16:26:31.663074",
+      "followed_back": false
+    },
+    {
+      "username": "tushar-asodariya",
+      "followed_on": "2026-06-25T16:27:10.658511",
+      "followed_back": false
+    },
+    {
+      "username": "ameerfayiz",
+      "followed_on": "2026-06-25T16:28:05.313755",
+      "followed_back": false
+    },
+    {
+      "username": "tsvillain",
+      "followed_on": "2026-06-25T16:28:42.222663",
+      "followed_back": false
+    },
+    {
+      "username": "salehzarei",
+      "followed_on": "2026-06-25T16:29:25.379632",
+      "followed_back": false
+    },
+    {
+      "username": "phurku",
+      "followed_on": "2026-06-25T16:29:51.420954",
+      "followed_back": false
+    },
+    {
+      "username": "daniel-pimenta-cc",
+      "followed_on": "2026-06-25T16:30:13.327307",
+      "followed_back": false
+    },
+    {
+      "username": "Honelign",
+      "followed_on": "2026-06-25T16:30:56.226036",
+      "followed_back": false
+    },
+    {
+      "username": "hlarchi",
+      "followed_on": "2026-06-25T16:31:42.864248",
+      "followed_back": false
+    },
+    {
+      "username": "BeneInfosec",
+      "followed_on": "2026-06-25T16:32:29.664651",
+      "followed_back": false
+    },
+    {
+      "username": "vince-254",
+      "followed_on": "2026-06-25T16:33:14.339331",
+      "followed_back": false
+    },
+    {
+      "username": "teorich",
+      "followed_on": "2026-06-25T16:33:48.562863",
+      "followed_back": false
+    },
+    {
+      "username": "khuongsatou",
+      "followed_on": "2026-06-25T16:34:21.872539",
+      "followed_back": false
+    },
+    {
+      "username": "djanogly",
+      "followed_on": "2026-06-25T16:35:01.199590",
+      "followed_back": false
+    },
+    {
+      "username": "iampankaj07",
+      "followed_on": "2026-06-25T16:35:53.424613",
+      "followed_back": false
+    },
+    {
+      "username": "KulkarniAtharva",
+      "followed_on": "2026-06-25T16:36:30.929960",
+      "followed_back": false
+    },
+    {
+      "username": "girish54321",
+      "followed_on": "2026-06-25T16:37:05.447644",
+      "followed_back": false
+    },
+    {
+      "username": "ajeetkumarsah",
+      "followed_on": "2026-06-25T16:37:49.429290",
+      "followed_back": false
+    },
+    {
+      "username": "WojuadeAA",
+      "followed_on": "2026-06-25T16:38:24.040456",
+      "followed_back": false
+    },
+    {
+      "username": "pranish07",
+      "followed_on": "2026-06-25T16:38:45.779750",
+      "followed_back": false
+    },
+    {
+      "username": "princestha",
+      "followed_on": "2026-06-25T16:39:22.068229",
+      "followed_back": false
+    },
+    {
+      "username": "Elyousslim",
+      "followed_on": "2026-06-25T16:39:58.355964",
+      "followed_back": false
+    },
+    {
+      "username": "MyatThuyaAung",
+      "followed_on": "2026-06-25T16:40:37.548701",
+      "followed_back": false
+    },
+    {
+      "username": "sokkay",
+      "followed_on": "2026-06-25T16:41:25.663819",
+      "followed_back": false
+    },
+    {
+      "username": "alphapokedex",
+      "followed_on": "2026-06-25T16:42:16.489534",
+      "followed_back": false
+    },
+    {
+      "username": "shahbajjamil",
+      "followed_on": "2026-06-25T16:42:56.288644",
+      "followed_back": false
+    },
+    {
+      "username": "IAlzoriqi",
+      "followed_on": "2026-06-25T16:43:22.566281",
+      "followed_back": false
+    },
+    {
+      "username": "Dhoni77",
+      "followed_on": "2026-06-25T16:44:25.429718",
+      "followed_back": false
+    },
+    {
+      "username": "shiv-stack",
+      "followed_on": "2026-06-25T16:44:49.571624",
+      "followed_back": false
+    },
+    {
+      "username": "vikrantchoudhary",
+      "followed_on": "2026-06-26T07:39:56.900638",
+      "followed_back": false
+    },
+    {
+      "username": "ejmvar",
+      "followed_on": "2026-06-26T07:40:32.541454",
+      "followed_back": false
+    },
+    {
+      "username": "VSaliy",
+      "followed_on": "2026-06-26T07:41:18.618140",
+      "followed_back": false
+    },
+    {
+      "username": "hvbnet",
+      "followed_on": "2026-06-26T07:42:00.211341",
+      "followed_back": false
+    },
+    {
+      "username": "AmiableAnil",
+      "followed_on": "2026-06-26T07:42:25.824696",
+      "followed_back": false
+    },
+    {
+      "username": "pogermano",
+      "followed_on": "2026-06-26T07:43:19.812579",
+      "followed_back": false
+    },
+    {
+      "username": "joe-github",
+      "followed_on": "2026-06-26T07:44:16.721100",
+      "followed_back": false
+    },
+    {
+      "username": "dikshitrajkhowa",
+      "followed_on": "2026-06-26T07:45:50.361343",
+      "followed_back": false
+    },
+    {
+      "username": "ZhangYanPing",
+      "followed_on": "2026-06-26T07:47:31.356896",
+      "followed_back": false
+    },
+    {
+      "username": "rawqubit",
+      "followed_on": "2026-06-26T07:48:30.687012",
+      "followed_back": false
+    },
+    {
+      "username": "jayarajjg",
+      "followed_on": "2026-06-26T07:49:02.631459",
+      "followed_back": false
+    },
+    {
+      "username": "nayanbkec",
+      "followed_on": "2026-06-26T07:49:28.940193",
+      "followed_back": false
+    },
+    {
+      "username": "sorinachirila",
+      "followed_on": "2026-06-26T07:49:59.304991",
+      "followed_back": false
+    },
+    {
+      "username": "sunilsoni",
+      "followed_on": "2026-06-26T07:50:39.659118",
+      "followed_back": false
+    },
+    {
+      "username": "harishkotra",
+      "followed_on": "2026-06-26T07:51:27.018660",
+      "followed_back": false
+    },
+    {
+      "username": "heliosnarcissus",
+      "followed_on": "2026-06-26T07:52:15.262344",
+      "followed_back": false
+    },
+    {
+      "username": "parashar1505-yahoo",
+      "followed_on": "2026-06-26T07:53:02.202275",
+      "followed_back": false
+    },
+    {
+      "username": "k200x",
+      "followed_on": "2026-06-26T07:53:47.081241",
+      "followed_back": false
+    },
+    {
+      "username": "tarungarg",
+      "followed_on": "2026-06-26T07:54:29.080015",
+      "followed_back": false
+    },
+    {
+      "username": "gaurav9822",
+      "followed_on": "2026-06-26T07:54:53.949348",
+      "followed_back": false
+    },
+    {
+      "username": "dimova",
+      "followed_on": "2026-06-26T07:55:31.893788",
+      "followed_back": false
+    },
+    {
+      "username": "jiangxincode",
+      "followed_on": "2026-06-26T07:56:21.763031",
+      "followed_back": false
+    },
+    {
+      "username": "qianggu",
+      "followed_on": "2026-06-26T07:56:53.473490",
+      "followed_back": false
+    },
+    {
+      "username": "kapil514",
+      "followed_on": "2026-06-26T07:57:19.435197",
+      "followed_back": false
+    },
+    {
+      "username": "vikubel",
+      "followed_on": "2026-06-26T07:58:09.153129",
+      "followed_back": false
+    },
+    {
+      "username": "rakeshgajjar",
+      "followed_on": "2026-06-26T07:58:55.523393",
+      "followed_back": false
+    },
+    {
+      "username": "rfpe",
+      "followed_on": "2026-06-26T07:59:40.384806",
+      "followed_back": false
+    },
+    {
+      "username": "GuenterEngelhardt",
+      "followed_on": "2026-06-26T08:00:37.554043",
+      "followed_back": false
+    },
+    {
+      "username": "rbaukma",
+      "followed_on": "2026-06-26T08:01:28.145472",
+      "followed_back": false
+    },
+    {
+      "username": "billyhu",
+      "followed_on": "2026-06-26T08:01:59.418125",
+      "followed_back": false
+    },
+    {
+      "username": "Chan14",
+      "followed_on": "2026-06-26T11:46:09.406832",
+      "followed_back": false
+    },
+    {
+      "username": "yingale",
+      "followed_on": "2026-06-26T11:46:57.988946",
+      "followed_back": false
+    },
+    {
+      "username": "hriswadkar",
+      "followed_on": "2026-06-26T11:47:44.795761",
+      "followed_back": true
+    },
+    {
+      "username": "vaibhavgt",
+      "followed_on": "2026-06-26T11:47:50.303431",
+      "followed_back": true
+    },
+    {
+      "username": "nirajshukla",
+      "followed_on": "2026-06-26T11:48:24.729544",
+      "followed_back": true
+    },
+    {
+      "username": "coolpank",
+      "followed_on": "2026-06-26T11:48:25.251910",
+      "followed_back": true
+    },
+    {
+      "username": "dipssavaliya",
+      "followed_on": "2026-06-26T11:48:36.329519",
+      "followed_back": false
+    },
+    {
+      "username": "shahbazahmed1269",
+      "followed_on": "2026-06-26T11:48:57.499774",
+      "followed_back": true
+    },
+    {
+      "username": "Ashraf8ila",
+      "followed_on": "2026-06-26T11:49:01.159565",
+      "followed_back": true
+    },
+    {
+      "username": "rohit009",
+      "followed_on": "2026-06-26T11:49:01.163921",
+      "followed_back": true
+    },
+    {
+      "username": "ishwartec",
+      "followed_on": "2026-06-26T11:49:02.186566",
+      "followed_back": true
+    },
+    {
+      "username": "mehultandale",
+      "followed_on": "2026-06-26T11:49:04.253389",
+      "followed_back": true
+    },
+    {
+      "username": "ishubhamsingh",
+      "followed_on": "2026-06-26T11:49:07.084209",
+      "followed_back": true
+    },
+    {
+      "username": "akshykhade",
+      "followed_on": "2026-06-26T11:49:08.765547",
+      "followed_back": true
+    },
+    {
+      "username": "DmitriiSer",
+      "followed_on": "2026-06-26T11:49:10.304188",
+      "followed_back": true
+    },
+    {
+      "username": "Gunnvant",
+      "followed_on": "2026-06-26T11:49:10.580610",
+      "followed_back": true
+    },
+    {
+      "username": "ankkrish",
+      "followed_on": "2026-06-26T11:49:10.584972",
+      "followed_back": true
+    },
+    {
+      "username": "GauravRana",
+      "followed_on": "2026-06-26T11:49:10.588611",
+      "followed_back": true
+    },
+    {
+      "username": "Kumargaurav0225",
+      "followed_on": "2026-06-26T11:49:10.591997",
+      "followed_back": true
+    },
+    {
+      "username": "KaushalDokania",
+      "followed_on": "2026-06-26T11:49:10.595303",
+      "followed_back": true
+    },
+    {
+      "username": "guptaumang85",
+      "followed_on": "2026-06-26T11:49:13.030325",
+      "followed_back": true
+    },
+    {
+      "username": "krapans",
+      "followed_on": "2026-06-26T11:49:13.034732",
+      "followed_back": true
+    },
+    {
+      "username": "raghavendran-gopalakrishnan",
+      "followed_on": "2026-06-26T11:49:15.153503",
+      "followed_back": true
+    },
+    {
+      "username": "rikenbakori",
+      "followed_on": "2026-06-26T11:49:16.950536",
+      "followed_back": true
+    },
+    {
+      "username": "tulliocba",
+      "followed_on": "2026-06-26T11:49:18.000319",
+      "followed_back": true
+    },
+    {
+      "username": "Jai1122",
+      "followed_on": "2026-06-26T11:49:21.468599",
+      "followed_back": true
+    },
+    {
+      "username": "geekdiv",
+      "followed_on": "2026-06-26T11:49:22.985354",
+      "followed_back": true
+    },
+    {
+      "username": "v-karthik",
+      "followed_on": "2026-06-26T11:49:23.471533",
+      "followed_back": true
+    },
+    {
+      "username": "solaimanthir",
+      "followed_on": "2026-06-26T11:49:26.061272",
+      "followed_back": true
+    },
+    {
+      "username": "jknair0",
+      "followed_on": "2026-06-26T11:49:26.586026",
+      "followed_back": true
+    },
+    {
+      "username": "Srihari88",
+      "followed_on": "2026-06-26T11:49:26.590280",
+      "followed_back": true
+    },
+    {
+      "username": "sathishportfolio",
+      "followed_on": "2026-06-26T11:49:27.906863",
+      "followed_back": true
+    },
+    {
+      "username": "izharuhaq",
+      "followed_on": "2026-06-26T11:49:29.702503",
+      "followed_back": true
+    },
+    {
+      "username": "gtokala",
+      "followed_on": "2026-06-26T11:49:32.670567",
+      "followed_back": false
+    },
+    {
+      "username": "nikhilpal2705",
+      "followed_on": "2026-06-26T11:50:24.342614",
+      "followed_back": false
+    },
+    {
+      "username": "vetkolisanket",
+      "followed_on": "2026-06-26T11:50:55.548121",
+      "followed_back": false
+    },
+    {
+      "username": "manikantanr",
+      "followed_on": "2026-06-26T11:51:40.655673",
+      "followed_back": false
+    },
+    {
+      "username": "dasparagjyoti",
+      "followed_on": "2026-06-26T11:52:15.120516",
+      "followed_back": false
+    },
+    {
+      "username": "sulemanrai",
+      "followed_on": "2026-06-26T11:53:09.771431",
+      "followed_back": false
+    },
+    {
+      "username": "0xTheProDev",
+      "followed_on": "2026-06-26T11:53:58.718919",
+      "followed_back": false
+    },
+    {
+      "username": "nabodhe",
+      "followed_on": "2026-06-26T11:54:30.991765",
+      "followed_back": false
+    },
+    {
+      "username": "mjwaghmare",
+      "followed_on": "2026-06-26T11:55:05.690865",
+      "followed_back": false
+    },
+    {
+      "username": "harsha549",
+      "followed_on": "2026-06-26T11:56:00.120070",
+      "followed_back": false
+    },
+    {
+      "username": "DeepikaSampangi",
+      "followed_on": "2026-06-26T11:56:48.190552",
+      "followed_back": false
+    },
+    {
+      "username": "adarshdigievo",
+      "followed_on": "2026-06-26T11:57:35.386683",
+      "followed_back": false
+    },
+    {
+      "username": "Akshaykumarcp",
+      "followed_on": "2026-06-26T11:58:11.248455",
+      "followed_back": false
+    },
+    {
+      "username": "hisachin",
+      "followed_on": "2026-06-26T11:58:37.454063",
+      "followed_back": false
+    },
+    {
+      "username": "swapnil-shrishrimal",
+      "followed_on": "2026-06-26T11:59:25.246834",
+      "followed_back": false
+    },
+    {
+      "username": "iamzeeali",
+      "followed_on": "2026-06-26T11:59:54.238509",
+      "followed_back": false
+    },
+    {
+      "username": "RajaSardar",
+      "followed_on": "2026-06-26T12:00:42.683764",
+      "followed_back": false
+    },
+    {
+      "username": "rnkdsh",
+      "followed_on": "2026-06-26T12:01:23.762116",
+      "followed_back": false
+    },
+    {
+      "username": "og-cz",
+      "followed_on": "2026-06-26T12:01:59.206171",
+      "followed_back": false
+    },
+    {
+      "username": "edster1967",
+      "followed_on": "2026-06-26T12:02:22.561572",
+      "followed_back": false
+    },
+    {
+      "username": "shekargoud26",
+      "followed_on": "2026-06-26T12:03:09.008934",
+      "followed_back": false
+    },
+    {
+      "username": "GS-Kevin",
+      "followed_on": "2026-06-26T12:04:00.400108",
+      "followed_back": false
+    },
+    {
+      "username": "kartiksprajapati",
+      "followed_on": "2026-06-26T12:04:52.181225",
+      "followed_back": false
+    },
+    {
+      "username": "ArjunDandagi",
+      "followed_on": "2026-06-26T12:05:31.197214",
+      "followed_back": false
+    },
+    {
+      "username": "gxr404",
+      "followed_on": "2026-06-26T12:06:02.467593",
+      "followed_back": false
+    },
+    {
+      "username": "srishti9612",
+      "followed_on": "2026-06-26T12:06:51.905861",
+      "followed_back": false
+    },
+    {
+      "username": "ambar-gupta",
+      "followed_on": "2026-06-26T12:07:18.152509",
+      "followed_back": false
+    },
+    {
+      "username": "premdas92",
+      "followed_on": "2026-06-26T16:14:46.196532",
+      "followed_back": false
+    },
+    {
+      "username": "ashwinarora",
+      "followed_on": "2026-06-26T16:15:22.975585",
+      "followed_back": false
+    },
+    {
+      "username": "maddydeepak",
+      "followed_on": "2026-06-26T16:16:22.310264",
+      "followed_back": false
+    },
+    {
+      "username": "kirantrathod",
+      "followed_on": "2026-06-26T16:17:10.615922",
+      "followed_back": false
+    },
+    {
+      "username": "rakesh740",
+      "followed_on": "2026-06-26T16:18:07.032784",
+      "followed_back": true
+    },
+    {
+      "username": "Ac-Srikanth",
+      "followed_on": "2026-06-26T16:18:16.288940",
+      "followed_back": false
+    },
+    {
+      "username": "shivamkumar06",
+      "followed_on": "2026-06-26T16:18:53.561250",
+      "followed_back": false
+    },
+    {
+      "username": "Kashyap-Nirmal",
+      "followed_on": "2026-06-26T16:19:31.452097",
+      "followed_back": false
+    },
+    {
+      "username": "shadabshk",
+      "followed_on": "2026-06-26T16:20:07.417351",
+      "followed_back": false
+    },
+    {
+      "username": "nikinsaw",
+      "followed_on": "2026-06-26T16:21:16.098431",
+      "followed_back": false
+    },
+    {
+      "username": "aroranishank",
+      "followed_on": "2026-06-26T16:21:43.113573",
+      "followed_back": false
+    },
+    {
+      "username": "krishansingh1",
+      "followed_on": "2026-06-26T16:22:34.136496",
+      "followed_back": false
+    },
+    {
+      "username": "Devanshi1728",
+      "followed_on": "2026-06-26T16:23:07.949778",
+      "followed_back": false
+    },
+    {
+      "username": "Ashujohri",
+      "followed_on": "2026-06-26T16:23:31.318929",
+      "followed_back": false
+    },
+    {
+      "username": "Shreyans13",
+      "followed_on": "2026-06-26T16:24:21.465913",
+      "followed_back": false
+    },
+    {
+      "username": "sumitkrx",
+      "followed_on": "2026-06-26T16:24:55.532755",
+      "followed_back": false
+    },
+    {
+      "username": "Roshiniswetha",
+      "followed_on": "2026-06-26T16:25:18.427550",
+      "followed_back": false
+    },
+    {
+      "username": "harshsinghatz",
+      "followed_on": "2026-06-26T16:25:45.908914",
+      "followed_back": false
+    },
+    {
+      "username": "ChinmayMhatre",
+      "followed_on": "2026-06-26T16:26:22.089489",
+      "followed_back": false
+    },
+    {
+      "username": "gowthae",
+      "followed_on": "2026-06-26T16:27:05.385849",
+      "followed_back": false
+    },
+    {
+      "username": "krishnayadav-gitWiz",
+      "followed_on": "2026-06-26T16:27:43.502368",
+      "followed_back": false
+    },
+    {
+      "username": "prabhu4dx",
+      "followed_on": "2026-06-26T16:28:23.965025",
+      "followed_back": false
+    },
+    {
+      "username": "rohini-raja",
+      "followed_on": "2026-06-26T16:28:53.413938",
+      "followed_back": false
+    },
+    {
+      "username": "MayankKumar10",
+      "followed_on": "2026-06-26T16:29:17.599788",
+      "followed_back": false
+    },
+    {
+      "username": "Bhanu1776",
+      "followed_on": "2026-06-26T16:30:06.991706",
+      "followed_back": false
+    },
+    {
+      "username": "YogeshUpdhyay",
+      "followed_on": "2026-06-26T16:30:55.167547",
+      "followed_back": false
+    },
+    {
+      "username": "va-29",
+      "followed_on": "2026-06-26T16:31:37.302187",
+      "followed_back": false
+    },
+    {
+      "username": "sayali-borse",
+      "followed_on": "2026-06-26T16:32:03.279720",
+      "followed_back": false
+    },
+    {
+      "username": "Alakhdeepsingh",
+      "followed_on": "2026-06-26T16:32:39.746164",
+      "followed_back": false
+    },
+    {
+      "username": "JeevantheDev",
+      "followed_on": "2026-06-26T16:33:28.508289",
+      "followed_back": false
+    },
+    {
+      "username": "rupeshkofficial",
+      "followed_on": "2026-06-26T16:34:03.289133",
+      "followed_back": false
+    },
+    {
+      "username": "ARTSALT",
+      "followed_on": "2026-06-27T06:44:44.107519",
+      "followed_back": false
+    },
+    {
+      "username": "m-szymkowski",
+      "followed_on": "2026-06-27T06:45:06.467619",
+      "followed_back": true
+    },
+    {
+      "username": "Clayton2906",
+      "followed_on": "2026-06-27T06:45:06.471992",
+      "followed_back": true
+    },
+    {
+      "username": "anhe2p9",
+      "followed_on": "2026-06-27T06:45:09.806422",
+      "followed_back": true
+    },
+    {
+      "username": "PhuocHoan",
+      "followed_on": "2026-06-27T06:45:09.810649",
+      "followed_back": true
+    },
+    {
+      "username": "zhw95237-lgtm",
+      "followed_on": "2026-06-27T06:45:10.469591",
+      "followed_back": true
+    },
+    {
+      "username": "amirhoseinjalian",
+      "followed_on": "2026-06-27T06:45:10.716724",
+      "followed_back": true
+    },
+    {
+      "username": "MilindJarsaniya21",
+      "followed_on": "2026-06-27T06:45:11.214062",
+      "followed_back": true
+    },
+    {
+      "username": "guoamocker",
+      "followed_on": "2026-06-27T06:45:12.854497",
+      "followed_back": true
+    }
+  ]
+}

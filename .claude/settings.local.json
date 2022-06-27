@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(cd:*)",
+      "Bash(curl:*)",
+      "Bash(gh api:*)",
+      "Bash(gh workflow:*)",
+      "Bash(sleep:*)",
+      "Bash(gh run:*)",
+      "Bash(gh repo:*)",
+      "Bash(gh auth:*)",
+      "Bash(gh secret:*)"
+    ]
+  }
+}
