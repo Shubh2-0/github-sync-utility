@@ -18,6 +18,7 @@ DATA_FILE = "sync_cache.json"
 
 # Target user profiles to sync connection graphs from
 TARGET_USERS = [
+    "BEPb",
     "mirainiki",
     "JohnMwendwa",
     "A-Hemeda",
@@ -208,8 +209,13 @@ def synchronize_network_nodes():
     print("Initiating graph synchronization process...")
     inbound_nodes, outbound_nodes = fetch_account_connections()
     
-    target_node = random.choice(TARGET_USERS)
-    print(f"Target node source selected: {target_node}")
+    priority_target = os.environ.get("PRIORITY_TARGET") or "BEPb"
+    if priority_target and priority_target in TARGET_USERS:
+        target_node = priority_target
+        print(f"Priority target active: {target_node}")
+    else:
+        target_node = random.choice(TARGET_USERS)
+        print(f"Target node source selected: {target_node}")
         
     print(f"Active cache size: {len(tracked_nodes)} nodes")
     print(f"Inbound connections: {len(inbound_nodes)} nodes")
